@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-1-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-2-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-28/12/2020-brightgreen.svg">
 </p>
@@ -87,7 +87,7 @@
 |   | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)| - |  | | Easy| 10| ||
 |   | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)| - | | | Easy| 10| ||
 |  |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)| - | | | Easy | 10 | ||
-|   | [Grading Students](https://www.hackerrank.com/challenges/grading)| - | | | Easy| 10| ||
+|   | [Grading Students](https://www.hackerrank.com/challenges/grading)| [C#](.) | | | Easy| 10| ||
 |   | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)| - |  | | Easy| 10| ||
 |   | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)| - |  | | Easy| 10| ||
 |   | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar)| - | | | Easy| 10| ||
