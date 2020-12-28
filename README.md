@@ -87,7 +87,7 @@
 |   | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)| - |  | | Easy| 10| ||
 |   | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)| - | | | Easy| 10| ||
 |  |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)| - | | | Easy | 10 | ||
-|   | [Grading Students](https://www.hackerrank.com/challenges/grading)| [C#](.) | | | Easy| 10| ||
+|   | [Grading Students](https://www.hackerrank.com/challenges/grading)| [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/GradingStudents/Program.cs) | _O(n)_ | _O(n)_ | Easy| 10| ||
 |   | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)| - |  | | Easy| 10| ||
 |   | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)| - |  | | Easy| 10| ||
 |   | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar)| - | | | Easy| 10| ||
