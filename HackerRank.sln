@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueensAttack2", "Algorithms\Implementation\QueensAttack2\QueensAttack2.csproj", "{6E28B9FE-8AE9-4D6D-9B61-279BBD9F4BBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E28B9FE-8AE9-4D6D-9B61-279BBD9F4BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E28B9FE-8AE9-4D6D-9B61-279BBD9F4BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E28B9FE-8AE9-4D6D-9B61-279BBD9F4BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E28B9FE-8AE9-4D6D-9B61-279BBD9F4BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18A2D178-A99A-47B6-82DD-B1A897954D04}
+	EndGlobalSection
+EndGlobal
