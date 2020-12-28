@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueensAttack2", "Algorithms
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradingStudents", "Algorithms\Implementation\GradingStudents\GradingStudents.csproj", "{774ABC0A-FD18-43ED-B182-D54A2DA411FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleAndOrange", "Algorithms\Implementation\AppleAndOrange\AppleAndOrange.csproj", "{CF4B7931-538C-45AF-A4A6-1A4DA59F3161}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{774ABC0A-FD18-43ED-B182-D54A2DA411FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{774ABC0A-FD18-43ED-B182-D54A2DA411FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{774ABC0A-FD18-43ED-B182-D54A2DA411FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF4B7931-538C-45AF-A4A6-1A4DA59F3161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4B7931-538C-45AF-A4A6-1A4DA59F3161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF4B7931-538C-45AF-A4A6-1A4DA59F3161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF4B7931-538C-45AF-A4A6-1A4DA59F3161}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
