@@ -59,37 +59,8 @@
 
 
 ## Languages
-### C++
-- Introduction
-- Strings
-- Classes
-- STL
-- Inheritance
-- Other Concepts
-### Java 
-- Introduction
-- Strings
-- BigNumber
-- Data Structures
-- Object Oriented Programming
-- Exception Handling
-- Advanced
-### Python
-- Introduction
-- Classes
-- Basic Data Types
-- Strings
-- Python Functionals
-- Regex and Parsing
-- XML
-- Closures and Decorators
-- Sets
-- Math
-- Itertools
-- Collections
-- Date and Time
-- Errors and Exceptions
-- Numpy
+### C#
+- Queen's Attack II
 
 ## Solutions
 ### Basic Programming
