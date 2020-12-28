@@ -84,7 +84,7 @@
 |  |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| - | | | Easy | 10 | ||
 |   | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit)| - |  | | Easy| 10| ||
 |   | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)| - |  | | Easy| 10| ||
-|   | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)| [C#](https://github.com/ilgiardino/HackerRank/tree/main/Algorithms/Implementation/AppleAndOrange) |  | | Easy| 10| ||
+|   | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)| [C#](https://github.com/ilgiardino/HackerRank/tree/main/Algorithms/Implementation/AppleAndOrange) | _O(m+n)_ | _O(m+n)_ | Easy| 10| ||
 |   | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)| - | | | Easy| 10| ||
 |  |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)| - | | | Easy | 10 | ||
 |   | [Grading Students](https://www.hackerrank.com/challenges/grading)| [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/GradingStudents/Program.cs) | _O(n)_ | _O(n)_ | Easy| 10| ||
