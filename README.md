@@ -18,20 +18,20 @@
 
 ## Core CS
 ### General Programming
-- [Basic Programming](./README_V2.md#basic-programming)
-- [Object-Oriented Programming](./README_V2.md#object-oriented-programming)
-- [RegEx](./README_V2.md#regex)
+- [Basic Programming](./README.md#basic-programming)
+- [Object-Oriented Programming](./README.md#object-oriented-programming)
+- [RegEx](./README.md#regex)
 ### Algorithms
-- [Sorting](./README_V2.md#sorting)
-- [Search](./README_V2.md#search)
-- [Greedy Algorithms](./README_V2.md#greedy-algorithms)
-- [Graph Theory](./README_V2.md#graph-theory)
-- [Strings](./README_V2.md#strings)
-- [Dynamic Programming](./README_V2.md#dynamic-programming)
-- [Bit Manipulation](./README_V2.md#bit-manipulation)
-- [Recursion](./README_V2.md#recursion)
+- [Sorting](./README.md#sorting)
+- [Search](./README.md#search)
+- [Greedy Algorithms](./README.md#greedy-algorithms)
+- [Graph Theory](./README.md#graph-theory)
+- [Strings](./README.md#strings)
+- [Dynamic Programming](./README.md#dynamic-programming)
+- [Bit Manipulation](./README.md#bit-manipulation)
+- [Recursion](./README.md#recursion)
 ### Implementation
-- [Brute-Force](./README_V2.md#brute-force)
+- [Brute-Force](./README.md#brute-force)
 ### Debugging
 - [Missing Lines](./README_V2.md#missing-lines)
 
