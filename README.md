@@ -108,10 +108,10 @@
 |   | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)| - |  | | Easy | 20| ||
 |   | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array)| - |  | | Easy | 20| ||
 |   | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)| - |  | | Easy| 20| ||
-|   | [Magic Square Forming](https://www.hackerrank.com/challenges/magic-square-forming)| Java |  | | Easy| 20| ||
+|   | [Magic Square Forming](https://www.hackerrank.com/challenges/magic-square-forming)| - |  | | Easy| 20| ||
 |   | [Repeated String](https://www.hackerrank.com/challenges/repeated-string)| - |  | | Easy | 20| ||
-|   | [Bitwise AND](https://www.hackerrank.com/challenges/linkedin-practice-bitwise-and)| Java |  | | Easy| 20| ||
-|   | [Divisible Pairs Sum](https://www.hackerrank.com/challenges/linkedin-practice-divisible-sum-pairs)| Java |  | | Easy| 20| ||
+|   | [Bitwise AND](https://www.hackerrank.com/challenges/linkedin-practice-bitwise-and)| - |  | | Easy| 20| ||
+|   | [Divisible Pairs Sum](https://www.hackerrank.com/challenges/linkedin-practice-divisible-sum-pairs)| - |  | | Easy| 20| ||
 |   | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete)| - |  | | Easy | 20| ||
 |   | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)| - | | | Easy| 20| ||
 |   | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)| - | | | Easy| 20| ||
@@ -136,317 +136,317 @@
 ### Object-Oriented Programming
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Class vs. Instance](https://www.hackerrank.com/challenges/class-vs-instance)| Java |  | | Easy | 30| ||
-|   | [Inheritance](https://www.hackerrank.com/challenges/inheritance)| Java |  |  | Easy | 30 | ||
-|   | [Abstract Classes](https://www.hackerrank.com/challenges/abstract-classes)| Java |  | | Easy | 30| ||
+|   | [Class vs. Instance](https://www.hackerrank.com/challenges/class-vs-instance)| - |  | | Easy | 30| ||
+|   | [Inheritance](https://www.hackerrank.com/challenges/inheritance)| - |  |  | Easy | 30 | ||
+|   | [Abstract Classes](https://www.hackerrank.com/challenges/abstract-classes)| - |  | | Easy | 30| ||
 
 ### RegEx
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [UK and US: Part 2](https://www.hackerrank.com/challenges/uk-and-us-2)| Java |  | | Easy | 10| ||
-|   | [Alien Username](https://www.hackerrank.com/challenges/alien-username)| Java |  | | Easy | 10| ||
-|   | [Detect HTML Tags](https://www.hackerrank.com/challenges/detect-html-tags)| Java |  | | Easy | 10| ||
-|   | [Detect HTML links](https://www.hackerrank.com/challenges/detect-html-links)| Java |  | | Easy | 10| ||
-|   | [Find A Sub-Word](https://www.hackerrank.com/challenges/find-substring)| Java |  | | Easy | 10| ||
-|   | [IP Address Validation](https://www.hackerrank.com/challenges/ip-address-validation)| Java |  | | Easy | 10| ||
-|   | [Find HackerRank](https://www.hackerrank.com/challenges/find-hackerrank)| Java |  | | Easy | 15| ||
-|   | [The British and American Style of Spelling](https://www.hackerrank.com/challenges/uk-and-us)| Java |  | | Easy | 15| ||
-|   | [Split the Phone Numbers](https://www.hackerrank.com/challenges/split-number)| Java |  | | Easy | 15| ||
-|   | [Valid PAN format](https://www.hackerrank.com/challenges/valid-pan-format)| Java |  | | Easy | 15| ||
-|   | [Saying Hi](https://www.hackerrank.com/challenges/saying-hi)| Java |  | | Easy | 15| ||
-|   | [HackerRank Tweets](https://www.hackerrank.com/challenges/hackerrank-tweets)| Java |  | | Easy | 15| ||
-|   | [HackerRank Language](https://www.hackerrank.com/challenges/hackerrank-language)| Java |  | | Easy | 15| ||
-|   | [Utopian Identification Number](https://www.hackerrank.com/challenges/utopian-identification-number)| Java |  | | Easy | 15| ||
-|   | [Find a Word](https://www.hackerrank.com/challenges/find-a-word)| Java |  | | Medium | 15| ||
-|   | [Build a Stack Exchange Scraper](https://www.hackerrank.com/challenges/stack-exchange-scraper)| Java |  | | Easy | 15| ||
-|   | [Detect the Domain Name](https://www.hackerrank.com/challenges/detect-the-domain-name)| Java |  | | Medium | 15| ||
-|   | [Detect the Email Addresses](https://www.hackerrank.com/challenges/detect-the-email-addresses)| Java |  | | Medium | 15| ||
-|   | [Detect HTML Attributes](https://www.hackerrank.com/challenges/html-attributes)| Java |  | | Easy | 20| ||
-|   | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string)| Java | | | Easy | 20| ||
-|   | [Building a Smart IDE: Programming Language Detection](https://www.hackerrank.com/challenges/programming-language-detection)| Java |  | | Medium | 30| ||
-|   | [Count Strings](https://www.hackerrank.com/challenges/count-strings)| Java |  | | Hard | 80| ||
+|   | [UK and US: Part 2](https://www.hackerrank.com/challenges/uk-and-us-2)| - |  | | Easy | 10| ||
+|   | [Alien Username](https://www.hackerrank.com/challenges/alien-username)| - |  | | Easy | 10| ||
+|   | [Detect HTML Tags](https://www.hackerrank.com/challenges/detect-html-tags)| - |  | | Easy | 10| ||
+|   | [Detect HTML links](https://www.hackerrank.com/challenges/detect-html-links)| - |  | | Easy | 10| ||
+|   | [Find A Sub-Word](https://www.hackerrank.com/challenges/find-substring)| - |  | | Easy | 10| ||
+|   | [IP Address Validation](https://www.hackerrank.com/challenges/ip-address-validation)| - |  | | Easy | 10| ||
+|   | [Find HackerRank](https://www.hackerrank.com/challenges/find-hackerrank)| - |  | | Easy | 15| ||
+|   | [The British and American Style of Spelling](https://www.hackerrank.com/challenges/uk-and-us)| - |  | | Easy | 15| ||
+|   | [Split the Phone Numbers](https://www.hackerrank.com/challenges/split-number)| - |  | | Easy | 15| ||
+|   | [Valid PAN format](https://www.hackerrank.com/challenges/valid-pan-format)| - |  | | Easy | 15| ||
+|   | [Saying Hi](https://www.hackerrank.com/challenges/saying-hi)| - |  | | Easy | 15| ||
+|   | [HackerRank Tweets](https://www.hackerrank.com/challenges/hackerrank-tweets)| - |  | | Easy | 15| ||
+|   | [HackerRank Language](https://www.hackerrank.com/challenges/hackerrank-language)| - |  | | Easy | 15| ||
+|   | [Utopian Identification Number](https://www.hackerrank.com/challenges/utopian-identification-number)| - |  | | Easy | 15| ||
+|   | [Find a Word](https://www.hackerrank.com/challenges/find-a-word)| - |  | | Medium | 15| ||
+|   | [Build a Stack Exchange Scraper](https://www.hackerrank.com/challenges/stack-exchange-scraper)| - |  | | Easy | 15| ||
+|   | [Detect the Domain Name](https://www.hackerrank.com/challenges/detect-the-domain-name)| - |  | | Medium | 15| ||
+|   | [Detect the Email Addresses](https://www.hackerrank.com/challenges/detect-the-email-addresses)| - |  | | Medium | 15| ||
+|   | [Detect HTML Attributes](https://www.hackerrank.com/challenges/html-attributes)| - |  | | Easy | 20| ||
+|   | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string)| - | | | Easy | 20| ||
+|   | [Building a Smart IDE: Programming Language Detection](https://www.hackerrank.com/challenges/programming-language-detection)| - |  | | Medium | 30| ||
+|   | [Count Strings](https://www.hackerrank.com/challenges/count-strings)| - |  | | Hard | 80| ||
 
 ### Sorting
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro)| Java | | | Easy | 30| ||
-|   | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1)| Java | | | Easy | 30 | ||
+|   | [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro)| - | | | Easy | 30| ||
+|   | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1)| - | | | Easy | 30 | ||
 |   | [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2)| | | | Easy | 30 | ||
-|   | [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort)| Java |  | | Advanced | 50| ||
-|   | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant)| Java | | | Easy | 30 | ||
-|   | [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime)| Java | | | Easy | 30 | ||
-|   | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)| Java | | | Easy | 10| ||
-|   | [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2)| Java | | | Easy | 30| ||
-|   | [Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3)| Java | | | Medium| 35| ||
-|   | [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4)| Java | | | Easy | 35| ||
-|   | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1)| Java | | | Easy | 30| ||
-|   | [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2)| Java | | | Easy | 30| ||
-|   | [Counting Sort 3](https://www.hackerrank.com/challenges/countingsort3)| Java | | | Easy | 30| ||
-|   | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4)| Java | | | Medium | 40| ||
-|   | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk)| Java |  |  | Easy | 15| ||
-|   | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array)| Java || | Easy | 15| ||
-|   | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls)| Java | |  | Medium | 30| ||
-|   | [Find the Median](https://www.hackerrank.com/challenges/find-the-median)| Java | | | Easy | 35| ||
-|   | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)| Java |  |  | Easy | 35| ||
-|  |[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys)| Java | | | Easy | 35 | ||
-|  |[Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays)| Java | | | Easy | 40 | ||
-|  |[Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders)| Java | | | Easy | 40 | ||
-|   | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications)| Java | | | Medium | 40| ||
-|   | [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework)| Java | | | Medium | 40| ||
-|   | [Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort)| Java |  | | Hard | 45 | ||
-|   | [Mr. X and His Shots](https://www.hackerrank.com/challenges/x-and-his-shots)| Java |  | | Medium | 50| ||
-|   | [Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries)| Java |  | | Hard | 60| ||
-|   | [GCD Matrix](https://www.hackerrank.com/challenges/gcd-matrix)| Java |  | | Hard | 60| ||
-|   | [A Super Hero](https://www.hackerrank.com/challenges/a-super-hero)| Java |  | | Hard | 80| ||
-|   | [Functional Palindromes](https://www.hackerrank.com/challenges/functional-palindromes)| Java |  | | Advanced | 80| ||
-|   | [Super Functional Strings](https://www.hackerrank.com/challenges/super-functional-strings)| Java |  | | Advanced | 80| ||
-|   | [Sorted Subsegments](https://www.hackerrank.com/challenges/sorted-subsegments)| Java |  | | Hard | 80| ||
+|   | [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort)| - |  | | Advanced | 50| ||
+|   | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant)| - | | | Easy | 30 | ||
+|   | [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime)| - | | | Easy | 30 | ||
+|   | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)| - | | | Easy | 10| ||
+|   | [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2)| - | | | Easy | 30| ||
+|   | [Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3)| - | | | Medium| 35| ||
+|   | [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4)| - | | | Easy | 35| ||
+|   | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1)| - | | | Easy | 30| ||
+|   | [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2)| - | | | Easy | 30| ||
+|   | [Counting Sort 3](https://www.hackerrank.com/challenges/countingsort3)| - | | | Easy | 30| ||
+|   | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4)| - | | | Medium | 40| ||
+|   | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk)| - |  |  | Easy | 15| ||
+|   | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array)| - || | Easy | 15| ||
+|   | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls)| - | |  | Medium | 30| ||
+|   | [Find the Median](https://www.hackerrank.com/challenges/find-the-median)| - | | | Easy | 35| ||
+|   | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)| - |  |  | Easy | 35| ||
+|  |[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys)| - | | | Easy | 35 | ||
+|  |[Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays)| - | | | Easy | 40 | ||
+|  |[Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders)| - | | | Easy | 40 | ||
+|   | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications)| - | | | Medium | 40| ||
+|   | [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework)| - | | | Medium | 40| ||
+|   | [Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort)| - |  | | Hard | 45 | ||
+|   | [Mr. X and His Shots](https://www.hackerrank.com/challenges/x-and-his-shots)| - |  | | Medium | 50| ||
+|   | [Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries)| - |  | | Hard | 60| ||
+|   | [GCD Matrix](https://www.hackerrank.com/challenges/gcd-matrix)| - |  | | Hard | 60| ||
+|   | [A Super Hero](https://www.hackerrank.com/challenges/a-super-hero)| - |  | | Hard | 80| ||
+|   | [Functional Palindromes](https://www.hackerrank.com/challenges/functional-palindromes)| - |  | | Advanced | 80| ||
+|   | [Super Functional Strings](https://www.hackerrank.com/challenges/super-functional-strings)| - |  | | Advanced | 80| ||
+|   | [Sorted Subsegments](https://www.hackerrank.com/challenges/sorted-subsegments)| - |  | | Hard | 80| ||
 
 ### Search
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters)| Java | | | Easy | 15 | ||
-|   | [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer)| Java | | | Easy | 20 | ||
-|   | [Bit Manipulation: Lonely Integer](https://www.hackerrank.com/challenges/ctci-lonely-integer)| Java | | | Easy | 20| ||
-|   | [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro)| Java |  | | Medium | 25 | ||
-|   | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)| Java | | | Easy | 30 | ||
-|   | [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist)| Java |  | | Medium | 35| ||
-|   | [Find the Median](https://www.hackerrank.com/challenges/find-the-median)| Java | | | Easy | 35| ||
-|   | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)| Java | | | Easy | 35| ||
-|   | [Binary Search: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor)| Java | | | Easy | 35 | ||
-|   | [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss)| Java | | | Medium | 35| ||
-|   | [KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard)| Java |  | | Medium | 35 | ||
-|   | [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array)| Java | | | Easy | 40 | ||
-|   | [Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome)| Java |  | | Medium | 40 | ||
-|   | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)| Java |  | | Easy | 45 | ||
-|   | [Making Candies](https://www.hackerrank.com/challenges/making-candies)| Java |  | | Hard | 45 | ||
-|   | [DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid)| Java |  | | hard | 45| ||
-|   | [Pairs](https://www.hackerrank.com/challenges/pairs)| Java |  | | Medium | 50 | ||
-|   | [Count Luck](https://www.hackerrank.com/challenges/count-luck)| Java |  | | Medium | 50 | ||
-|   | [Cut the Tree](https://www.hackerrank.com/challenges/cut-the-tree)| Java |  | | Medium | 50 | ||
-|   | [Connected Cells in a grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid)| Java |  | | Medium | 50 | ||
-|   | [Gena Playing Hanoi](https://www.hackerrank.com/challenges/gena)| Java |  | | Medium | 50 | ||
-|   | [Beautiful Quadruples](https://www.hackerrank.com/challenges/xor-quadruples)| Java |  | | Medium | 50 | ||
-|   | [Coin on the Table](https://www.hackerrank.com/challenges/coin-on-the-table)| Java |  | | Medium | 65| ||
-|   | [Interval Selection](https://www.hackerrank.com/challenges/interval-selection)| Java |  | | Medium | 65| ||
-|   | [Bike Racers](https://www.hackerrank.com/challenges/bike-racers)| Java |  | | Hard | 65 | ||
-|   | [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum)| Java |  | | Hard | 65 | ||
-|   | [Task Scheduling](https://www.hackerrank.com/challenges/task-scheduling)| Java |  | | Advanced | 70 | ||
-|   | [Queens on Board](https://www.hackerrank.com/challenges/queens-on-board)| Java |  | | Hard | 70| ||
-|   | [Median Updates](https://www.hackerrank.com/challenges/median)| Java |  | | Hard | 70| ||
-|   | [Similar Pair](https://www.hackerrank.com/challenges/similarpair)| Java |  | | Advanced | 70 | ||
-|   | [Absolute Element Sums](https://www.hackerrank.com/challenges/playing-with-numbers)| Java |  | | Hard | 70 | ||
-|   | [Maximizing Mission Points](https://www.hackerrank.com/challenges/maximizing-mission-points)| Java |  | | Hard | 70 | ||
-|   | [Arithmetic Progressions](https://www.hackerrank.com/challenges/arithmetic-progressions)| Java |  | | Advanced | 80| ||
-|   | [Billboards](https://www.hackerrank.com/challenges/billboards)| Java |  | | Advanced | 80| ||
-|   | [Requirement](https://www.hackerrank.com/challenges/requirement)| Java |  | | Advanced | 80| ||
-|   | [King Richard's Knights](https://www.hackerrank.com/challenges/king-richards-knights)| Java |  | | Hard | 80 | ||
-|   | [Sorted Subsegments](https://www.hackerrank.com/challenges/sorted-subsegments)| Java |  | | Hard | 80 | ||
-|   | [Distant Pairs](https://www.hackerrank.com/challenges/distant-pairs)| Java |  | | Expert | 80 | ||
-|   | [Triplets](https://www.hackerrank.com/challenges/triplets)| Java |  | | Medium | 20| ||
-|   | [Spies, Revised](https://www.hackerrank.com/challenges/spies-revised)| Java |  | | Expert | 100 | ||
-|   | [TBS Problem](https://www.hackerrank.com/challenges/tbsp)| Java |  | | Expert | 100 | ||
+|   | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters)| - | | | Easy | 15 | ||
+|   | [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer)| - | | | Easy | 20 | ||
+|   | [Bit Manipulation: Lonely Integer](https://www.hackerrank.com/challenges/ctci-lonely-integer)| - | | | Easy | 20| ||
+|   | [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro)| - |  | | Medium | 25 | ||
+|   | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor)| - | | | Easy | 30 | ||
+|   | [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist)| - |  | | Medium | 35| ||
+|   | [Find the Median](https://www.hackerrank.com/challenges/find-the-median)| - | | | Easy | 35| ||
+|   | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)| - | | | Easy | 35| ||
+|   | [Binary Search: Ice Cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor)| - | | | Easy | 35 | ||
+|   | [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss)| - | | | Medium | 35| ||
+|   | [KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard)| - |  | | Medium | 35 | ||
+|   | [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array)| - | | | Easy | 40 | ||
+|   | [Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome)| - |  | | Medium | 40 | ||
+|   | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers)| - |  | | Easy | 45 | ||
+|   | [Making Candies](https://www.hackerrank.com/challenges/making-candies)| - |  | | Hard | 45 | ||
+|   | [DFS: Connected Cell in a Grid](https://www.hackerrank.com/challenges/ctci-connected-cell-in-a-grid)| - |  | | hard | 45| ||
+|   | [Pairs](https://www.hackerrank.com/challenges/pairs)| - |  | | Medium | 50 | ||
+|   | [Count Luck](https://www.hackerrank.com/challenges/count-luck)| - |  | | Medium | 50 | ||
+|   | [Cut the Tree](https://www.hackerrank.com/challenges/cut-the-tree)| - |  | | Medium | 50 | ||
+|   | [Connected Cells in a grid](https://www.hackerrank.com/challenges/connected-cell-in-a-grid)| - |  | | Medium | 50 | ||
+|   | [Gena Playing Hanoi](https://www.hackerrank.com/challenges/gena)| - |  | | Medium | 50 | ||
+|   | [Beautiful Quadruples](https://www.hackerrank.com/challenges/xor-quadruples)| - |  | | Medium | 50 | ||
+|   | [Coin on the Table](https://www.hackerrank.com/challenges/coin-on-the-table)| - |  | | Medium | 65| ||
+|   | [Interval Selection](https://www.hackerrank.com/challenges/interval-selection)| - |  | | Medium | 65| ||
+|   | [Bike Racers](https://www.hackerrank.com/challenges/bike-racers)| - |  | | Hard | 65 | ||
+|   | [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum)| - |  | | Hard | 65 | ||
+|   | [Task Scheduling](https://www.hackerrank.com/challenges/task-scheduling)| - |  | | Advanced | 70 | ||
+|   | [Queens on Board](https://www.hackerrank.com/challenges/queens-on-board)| - |  | | Hard | 70| ||
+|   | [Median Updates](https://www.hackerrank.com/challenges/median)| - |  | | Hard | 70| ||
+|   | [Similar Pair](https://www.hackerrank.com/challenges/similarpair)| - |  | | Advanced | 70 | ||
+|   | [Absolute Element Sums](https://www.hackerrank.com/challenges/playing-with-numbers)| - |  | | Hard | 70 | ||
+|   | [Maximizing Mission Points](https://www.hackerrank.com/challenges/maximizing-mission-points)| - |  | | Hard | 70 | ||
+|   | [Arithmetic Progressions](https://www.hackerrank.com/challenges/arithmetic-progressions)| - |  | | Advanced | 80| ||
+|   | [Billboards](https://www.hackerrank.com/challenges/billboards)| - |  | | Advanced | 80| ||
+|   | [Requirement](https://www.hackerrank.com/challenges/requirement)| - |  | | Advanced | 80| ||
+|   | [King Richard's Knights](https://www.hackerrank.com/challenges/king-richards-knights)| - |  | | Hard | 80 | ||
+|   | [Sorted Subsegments](https://www.hackerrank.com/challenges/sorted-subsegments)| - |  | | Hard | 80 | ||
+|   | [Distant Pairs](https://www.hackerrank.com/challenges/distant-pairs)| - |  | | Expert | 80 | ||
+|   | [Triplets](https://www.hackerrank.com/challenges/triplets)| - |  | | Medium | 20| ||
+|   | [Spies, Revised](https://www.hackerrank.com/challenges/spies-revised)| - |  | | Expert | 100 | ||
+|   | [TBS Problem](https://www.hackerrank.com/challenges/tbsp)| - |  | | Expert | 100 | ||
 
 ### Greedy Algorithms
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Two Characters](https://www.hackerrank.com/challenges/two-characters)| [Java](./Algorithms/Strings/Two%20Characters/Solution.java) | _O(n)_ | _O(1)_ | Easy| 15| ||
-|   | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk)| [Java](./Algorithms/Sorting/Marc's%20Cakewalk/Solution.java) | _O(n + k)_ | _O(k)_ | Easy | 15| ||
-|  |[Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge)| [Java](./Algorithms/Greedy/Grid%20Challenge/Solution.java)| _O(n*(n log (n)))_ | _O(n^2)_| Easy | 20 | ||
-|   | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance)| Java | | _O(1)_ | Easy | 20| ||
-|  |[Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle)| Java | | | Easy | 20 | ||
-|  |[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks)| Java | | | Easy | 25 | ||
-|  |[Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast)| Java | | | Easy | 30 | ||
-|  |[Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys)| Java | | | Easy | 30 | ||
-|   | [Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation)| Java |  | | Easy | 30| ||
-|   | [Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs)| Java |  | | Easy | 30| ||
-|   | [Yet Another Minimax Problem](https://www.hackerrank.com/challenges/yet-another-minimax-problem)| Java |  | | Medium | 20| ||
-|   | [Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix)| Java | | | Medium | 30 | ||
-|   | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development)| Java |  | | Medium | 30| ||
-|   | [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist)| Java |  | | Medium | 35| ||
-|  |[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys)| Java | | | Easy | 35 | ||
-|   | [Max Min](https://www.hackerrank.com/challenges/angry-children)| Java |  | | Medium | 35| ||
-|   | [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays)| Java |  | | Easy | 40| ||
-|   | [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders)| Java |  | | Easy | 40| ||
-|   | [Goodland Electricity](https://www.hackerrank.com/challenges/pylons)| Java |  | | Medium | 40| ||
-|   | [Fun Game](https://www.hackerrank.com/challenges/fun-game-1)| Java |  | | Medium | 40| ||
-|   | [Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge)| Java |  | | Advanced | 50| ||
-|   | [Cutting Boards](https://www.hackerrank.com/challenges/board-cutting)| Java |  | | Hard | 60| ||
-|   | [Algorithmic Crush](https://www.hackerrank.com/challenges/crush)| Java |  | | Hard | 60| ||
-|   | [Prim's (MST): Special Subtree](https://www.hackerrank.com/challenges/primsmstsub)| Java |  | | Medium | 60| ||
-|   | [Accessory Collection](https://www.hackerrank.com/challenges/accessory-collection)| Java |  | | Hard | 60| ||
-|  |[Chief Hopper](https://www.hackerrank.com/challenges/chief-hopper)| Java | | | Hard | 65 | ||
-|   | [Sherlock and MiniMax](https://www.hackerrank.com/challenges/sherlock-and-minimax)| Java |  | | Hard | 70| ||
-|   | [Team Formation](https://www.hackerrank.com/challenges/team-formation)| Java |  | | Advanced | 70| ||
+|   | [Two Characters](https://www.hackerrank.com/challenges/two-characters)| - | _O(n)_ | _O(1)_ | Easy| 15| ||
+|   | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk)| - | _O(n + k)_ | _O(k)_ | Easy | 15| ||
+|  |[Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge)| -| _O(n*(n log (n)))_ | _O(n^2)_| Easy | 20 | ||
+|   | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance)| - | | _O(1)_ | Easy | 20| ||
+|  |[Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle)| - | | | Easy | 20 | ||
+|  |[Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks)| - | | | Easy | 25 | ||
+|  |[Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast)| - | | | Easy | 30 | ||
+|  |[Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys)| - | | | Easy | 30 | ||
+|   | [Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation)| - |  | | Easy | 30| ||
+|   | [Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs)| - |  | | Easy | 30| ||
+|   | [Yet Another Minimax Problem](https://www.hackerrank.com/challenges/yet-another-minimax-problem)| - |  | | Medium | 20| ||
+|   | [Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix)| - | | | Medium | 30 | ||
+|   | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development)| - |  | | Medium | 30| ||
+|   | [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist)| - |  | | Medium | 35| ||
+|  |[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys)| - | | | Easy | 35 | ||
+|   | [Max Min](https://www.hackerrank.com/challenges/angry-children)| - |  | | Medium | 35| ||
+|   | [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays)| - |  | | Easy | 40| ||
+|   | [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders)| - |  | | Easy | 40| ||
+|   | [Goodland Electricity](https://www.hackerrank.com/challenges/pylons)| - |  | | Medium | 40| ||
+|   | [Fun Game](https://www.hackerrank.com/challenges/fun-game-1)| - |  | | Medium | 40| ||
+|   | [Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge)| - |  | | Advanced | 50| ||
+|   | [Cutting Boards](https://www.hackerrank.com/challenges/board-cutting)| - |  | | Hard | 60| ||
+|   | [Algorithmic Crush](https://www.hackerrank.com/challenges/crush)| - |  | | Hard | 60| ||
+|   | [Prim's (MST): Special Subtree](https://www.hackerrank.com/challenges/primsmstsub)| - |  | | Medium | 60| ||
+|   | [Accessory Collection](https://www.hackerrank.com/challenges/accessory-collection)| - |  | | Hard | 60| ||
+|  |[Chief Hopper](https://www.hackerrank.com/challenges/chief-hopper)| - | | | Hard | 65 | ||
+|   | [Sherlock and MiniMax](https://www.hackerrank.com/challenges/sherlock-and-minimax)| - |  | | Hard | 70| ||
+|   | [Team Formation](https://www.hackerrank.com/challenges/team-formation)| - |  | | Advanced | 70| ||
 
 ### Graph Theory
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development)| Java |  | | Medium | 30| ||
-|   | [Synchronous Shopping](https://www.hackerrank.com/challenges/synchronous-shopping)| Java |  | | Medium | 40| ||
-|   | [Crab Graphs](https://www.hackerrank.com/challenges/crab-graphs)| Java |  | | Medium | 50| ||
-|   | [Even Tree](https://www.hackerrank.com/challenges/even-tree)| Java |  | | Medium | 50| ||
-|   | [Snakes and Ladders: THe Quickest Way Up](https://www.hackerrank.com/challenges/the-quickest-way-up)| Java |  | | Medium | 50| ||
-|   | [Subset Component](https://www.hackerrank.com/challenges/subset-component)| Java |  | | Hard | 50| ||
-|  |[Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon)| Java | | | Medium | 50 | ||
-|   | [Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub)| Java |  | | Hard | 50| ||
-|   | [Minimum Penalty Path](https://www.hackerrank.com/challenges/beautiful-path)| Java |  | | Medium | 50| ||
-|   | [Demanding Money](https://www.hackerrank.com/challenges/borrowing-money)| Java |  | | Hard | 50| ||
+|   | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development)| - |  | | Medium | 30| ||
+|   | [Synchronous Shopping](https://www.hackerrank.com/challenges/synchronous-shopping)| - |  | | Medium | 40| ||
+|   | [Crab Graphs](https://www.hackerrank.com/challenges/crab-graphs)| - |  | | Medium | 50| ||
+|   | [Even Tree](https://www.hackerrank.com/challenges/even-tree)| - |  | | Medium | 50| ||
+|   | [Snakes and Ladders: THe Quickest Way Up](https://www.hackerrank.com/challenges/the-quickest-way-up)| - |  | | Medium | 50| ||
+|   | [Subset Component](https://www.hackerrank.com/challenges/subset-component)| - |  | | Hard | 50| ||
+|  |[Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon)| - | | | Medium | 50 | ||
+|   | [Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub)| - |  | | Hard | 50| ||
+|   | [Minimum Penalty Path](https://www.hackerrank.com/challenges/beautiful-path)| - |  | | Medium | 50| ||
+|   | [Demanding Money](https://www.hackerrank.com/challenges/borrowing-money)| - |  | | Hard | 50| ||
 
 ### Strings
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)| Java |  | | Easy | 10| ||
-|   | [camelCase](https://www.hackerrank.com/challenges/camelcase)| Java |  | | Easy | 15| ||
-|   | [Two Characters](https://www.hackerrank.com/challenges/two-characters)| Java | | Easy| 15| ||
-|   | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1)| Java |  | | Easy | 15| ||
-|   | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration)| Java |  | | Easy | 15| ||
-|   | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string)| Java |  | | Easy | 20| ||
-|   | [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers)| Java |  | | Easy | 20| ||
-|   | [Funny String](https://www.hackerrank.com/challenges/funny-string)| Java |  | | Easy | 25| ||
-|   | [Gemstones](https://www.hackerrank.com/challenges/gem-stones)| Java |  | | Easy | 20| ||
-|   | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)| Java |  | | Easy | 20| ||
-|   | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string)| Java |  | | Easy | 20| ||
-|   | [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery)| Java | | | Easy | 20| ||
-|   | [Determining DNA Health](https://www.hackerrank.com/challenges/determining-dna-health)| Java |  | | Hard | 50| ||
-|   | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)| Java |  | | Easy | 25| ||
-|   | [Anagram](https://www.hackerrank.com/challenges/anagram)| Java | | | Easy | 25| ||
-|   | [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones)| Java | | | Easy | 30| ||
-|   | [Two Strings](https://www.hackerrank.com/challenges/two-strings)| Java | | | Easy | 25| ||
-|   | [String Construction](https://www.hackerrank.com/challenges/string-construction)| Java |   |  | Easy | 25| ||
-|   | [Sherlock and Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string)| Java | | | Hard | 100| ||
-|   | [Richie Rich](https://www.hackerrank.com/challenges/richie-rich)| Java |  | | Medium | 30| ||
-|   | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams)| Java |  | | Medium | 50| ||
-|   | [Common Child](https://www.hackerrank.com/challenges/common-child)| Java |  | | Hard | 60| ||
-|   | [Bear and Steady Gene](https://www.hackerrank.com/challenges/bear-and-steady-gene)| Java |  | | Medium | 50| ||
-|   | [Morgan and a String](https://www.hackerrank.com/challenges/morgan-and-a-string)| Java |  | | Expert | 100| ||
-|   | [Count Strings](https://www.hackerrank.com/challenges/count-strings)| Java |  | | Hard | 80| ||
-|   | [String Function Calculation](https://www.hackerrank.com/challenges/string-function-calculation)| Java |  | | Advanced | 80| ||
-|   | [Build a Palindrome](https://www.hackerrank.com/challenges/challenging-palindromes)| Java |  | | Advanced | 80| ||
-|   | [Build a String](https://www.hackerrank.com/challenges/build-a-string)| Java |  | | Hard | 80| ||
-|   | [Gridland Provinces](https://www.hackerrank.com/challenges/gridland-provinces)| Java |  | | Hard | 80| ||
-|   | [Ashton and String](https://www.hackerrank.com/challenges/ashton-and-string)| Java |  | | Advanced | 100| ||
-|   | [String Similarity](https://www.hackerrank.com/challenges/string-similarity)| Java |  | | Expert | 100| ||
-|   | [Super Functional Strings](https://www.hackerrank.com/challenges/super-functional-strings)| Java |  | | Advanced | 80| ||
-|   | [Circular Palindromes](https://www.hackerrank.com/challenges/circular-palindromes)| Java |  | | Advanced | 120| ||
-|   | [Similar Strings](https://www.hackerrank.com/challenges/similar-strings)| Java |  | | Advanced | 85| ||
-|   | [Save Humanity](https://www.hackerrank.com/challenges/save-humanity)| Java |  | | Expert | 100| ||
-|   | [Find Strings](https://www.hackerrank.com/challenges/find-strings)| Java |  | | Expert | 100| ||
-|   | [Palindromic Border](https://www.hackerrank.com/challenges/palindromic-border)| Java |  | | Expert | 100| ||
-|   | [Two Two](https://www.hackerrank.com/challenges/two-two)| Java |  | | Advanced | 150| ||
-|   | [Two Strings Game](https://www.hackerrank.com/challenges/two-strings-game)| Java |  | | Expert | 100| ||
-|   | [Letter Islands](https://www.hackerrank.com/challenges/letter-islands)| Java |  | | Expert | 100| ||
-|   | [Pseudo-Isomorphic Substrings](https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings)| Java |  | | Expert | 100| ||
-|   | [How Many Substrings?](https://www.hackerrank.com/challenges/how-many-substrings)| Java |  | | Expert | 100| ||
+|   | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string)| - |  | | Easy | 10| ||
+|   | [camelCase](https://www.hackerrank.com/challenges/camelcase)| - |  | | Easy | 15| ||
+|   | [Two Characters](https://www.hackerrank.com/challenges/two-characters)| - | | Easy| 15| ||
+|   | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1)| - |  | | Easy | 15| ||
+|   | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration)| - |  | | Easy | 15| ||
+|   | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string)| - |  | | Easy | 20| ||
+|   | [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers)| - |  | | Easy | 20| ||
+|   | [Funny String](https://www.hackerrank.com/challenges/funny-string)| - |  | | Easy | 25| ||
+|   | [Gemstones](https://www.hackerrank.com/challenges/gem-stones)| - |  | | Easy | 20| ||
+|   | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)| - |  | | Easy | 20| ||
+|   | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string)| - |  | | Easy | 20| ||
+|   | [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery)| - | | | Easy | 20| ||
+|   | [Determining DNA Health](https://www.hackerrank.com/challenges/determining-dna-health)| - |  | | Hard | 50| ||
+|   | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)| - |  | | Easy | 25| ||
+|   | [Anagram](https://www.hackerrank.com/challenges/anagram)| - | | | Easy | 25| ||
+|   | [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones)| - | | | Easy | 30| ||
+|   | [Two Strings](https://www.hackerrank.com/challenges/two-strings)| - | | | Easy | 25| ||
+|   | [String Construction](https://www.hackerrank.com/challenges/string-construction)| - |   |  | Easy | 25| ||
+|   | [Sherlock and Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string)| - | | | Hard | 100| ||
+|   | [Richie Rich](https://www.hackerrank.com/challenges/richie-rich)| - |  | | Medium | 30| ||
+|   | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams)| - |  | | Medium | 50| ||
+|   | [Common Child](https://www.hackerrank.com/challenges/common-child)| - |  | | Hard | 60| ||
+|   | [Bear and Steady Gene](https://www.hackerrank.com/challenges/bear-and-steady-gene)| - |  | | Medium | 50| ||
+|   | [Morgan and a String](https://www.hackerrank.com/challenges/morgan-and-a-string)| - |  | | Expert | 100| ||
+|   | [Count Strings](https://www.hackerrank.com/challenges/count-strings)| - |  | | Hard | 80| ||
+|   | [String Function Calculation](https://www.hackerrank.com/challenges/string-function-calculation)| - |  | | Advanced | 80| ||
+|   | [Build a Palindrome](https://www.hackerrank.com/challenges/challenging-palindromes)| - |  | | Advanced | 80| ||
+|   | [Build a String](https://www.hackerrank.com/challenges/build-a-string)| - |  | | Hard | 80| ||
+|   | [Gridland Provinces](https://www.hackerrank.com/challenges/gridland-provinces)| - |  | | Hard | 80| ||
+|   | [Ashton and String](https://www.hackerrank.com/challenges/ashton-and-string)| - |  | | Advanced | 100| ||
+|   | [String Similarity](https://www.hackerrank.com/challenges/string-similarity)| - |  | | Expert | 100| ||
+|   | [Super Functional Strings](https://www.hackerrank.com/challenges/super-functional-strings)| - |  | | Advanced | 80| ||
+|   | [Circular Palindromes](https://www.hackerrank.com/challenges/circular-palindromes)| - |  | | Advanced | 120| ||
+|   | [Similar Strings](https://www.hackerrank.com/challenges/similar-strings)| - |  | | Advanced | 85| ||
+|   | [Save Humanity](https://www.hackerrank.com/challenges/save-humanity)| - |  | | Expert | 100| ||
+|   | [Find Strings](https://www.hackerrank.com/challenges/find-strings)| - |  | | Expert | 100| ||
+|   | [Palindromic Border](https://www.hackerrank.com/challenges/palindromic-border)| - |  | | Expert | 100| ||
+|   | [Two Two](https://www.hackerrank.com/challenges/two-two)| - |  | | Advanced | 150| ||
+|   | [Two Strings Game](https://www.hackerrank.com/challenges/two-strings-game)| - |  | | Expert | 100| ||
+|   | [Letter Islands](https://www.hackerrank.com/challenges/letter-islands)| - |  | | Expert | 100| ||
+|   | [Pseudo-Isomorphic Substrings](https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings)| - |  | | Expert | 100| ||
+|   | [How Many Substrings?](https://www.hackerrank.com/challenges/how-many-substrings)| - |  | | Expert | 100| ||
 
 ### Dynamic Programming
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Equal](https://www.hackerrank.com/challenges/equal)| Java |  | | Medium | 30 | ||
-|   | [Cut Tree](https://www.hackerrank.com/challenges/cuttree)| Java |  | | Medium | 40 | ||
-|   | [Mr K marsh](https://www.hackerrank.com/challenges/mr-k-marsh)| Java |  | | Medium | 40 | ||
-|   | [Sam and sub-strings](https://www.hackerrank.com/challenges/sam-and-substrings)| Java |  | | Medium | 40 | ||
-|   | [Summing Pieces](https://www.hackerrank.com/challenges/summing-pieces)| Java |  | | Medium | 40 | ||
-|   | [Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome)| Java |  | | Medium | 40 | ||
-|   | [Abbreviation](https://www.hackerrank.com/challenges/abbr)| Java |  | | Medium | 40 | ||
-|   | [Fair Cut](https://www.hackerrank.com/challenges/fair-cut)| Java |  | | Medium | 40 | ||
-|   | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified)| Java |  | | Medium | 45 | ||
-|   | [Lego Blocks](https://www.hackerrank.com/challenges/lego-blocks)| Java |  | | Medium | 50 | ||
-|   | [Candies](https://www.hackerrank.com/challenges/candies)| Java |  | | Medium | 50 | ||
-|   | [Stock Maximize](https://www.hackerrank.com/challenges/stockmax)| Java |  | | Medium | 50 | ||
-|   | [Angry Childtren 2](https://www.hackerrank.com/challenges/angry-children-2)| Java |  | | Hard | 50 | ||
-|   | [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray)| Java |  | | Medium | 50 | ||
-|   | [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost)| Java |  | | Medium | 50 | ||
-|   | [Xor and Sum](https://www.hackerrank.com/challenges/xor-and-sum)| Java |  | | Medium | 50 | ||
-|   | [Counting Special Sub-Cubes](https://www.hackerrank.com/challenges/counting-special-sub-cubes)| Java |  | | Medium | 50 | ||
-|   | [Two Robots](https://www.hackerrank.com/challenges/two-robots)| Java |  | | Medium | 50 | ||
-|   | [Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division)| Java |  | | Medium | 50 | ||
-|   | [Prime XOR](https://www.hackerrank.com/challenges/prime-xor)| Java |  | | Medium | 50 | ||
-|   | [HackerRank City](https://www.hackerrank.com/challenges/hr-city)| Java |  | | Medium | 50 | ||
-|   | [Nikita and the Game](https://www.hackerrank.com/challenges/array-splitting)| Java |  | | Medium | 50 | ||
-|   | [Prime Digit Sums](https://www.hackerrank.com/challenges/prime-digit-sums)| Java |  | | Medium | 50 | ||
-|   | [Mandragora Forest](https://www.hackerrank.com/challenges/mandragora)| Java |  | | Medium | 50 | ||
-|   | [LCS Returns](https://www.hackerrank.com/challenges/tutzki-and-lcs)| Java |  | | Medium | 50 | ||
-|   | [Grid Walking](https://www.hackerrank.com/challenges/grid-walking)| Java |  | | Medium | 55 | ||
-|   | [Bricks Game](https://www.hackerrank.com/challenges/play-game)| Java |  | | Medium | 55 | ||
-|   | [The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence)| Java |  | | Medium | 55 | ||
-|   | [Substring Diff](https://www.hackerrank.com/challenges/substring-diff)| Java |  | | Medium | 60 | ||
-|   | [Brick Tiling](https://www.hackerrank.com/challenges/brick-tiling)| Java |  | | Hard | 60 | ||
-|   | [Alien Languages](https://www.hackerrank.com/challenges/alien-languages)| Java |  | | Hard | 60 | ||
-|   | [The Longest Increasing Subsequence](https://www.hackerrank.com/challenges/longest-increasing-subsequent)| Java |  | | Advanced | 60 | ||
-|   | [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change)| Java |  | | Hard | 60 | ||
-|   | [Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack)| Java |  | | Medium | 60 | ||
-|   | [Sherlock's Array Merging Algorithm](https://www.hackerrank.com/challenges/sherlocks-array-merging-algorithm)| Java |  | | Hard | 60 | ||
-|   | [New Year Game](https://www.hackerrank.com/challenges/newyear-game)| Java |  | | Medium | 60 | ||
-|   | [Shashank and the Palindromic Strings](https://www.hackerrank.com/challenges/shashank-and-palindromic-strings)| Java |  | | Advanced | 60 | ||
-|   | [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers)| Java |  | | Hard | 60 | ||
-|   | [Choosing White Balls](https://www.hackerrank.com/challenges/choosing-white-balls)| Java |  | | Hard | 60 | ||
-|   | [DP: Coin Change](https://www.hackerrank.com/challenges/ctci-coin-change)| Java |  | | Hard | 60 | ||
-|   | [Clues on a Binary Path](https://www.hackerrank.com/challenges/clues-on-a-binary-path)| Java |  | | Hard | 60 | ||
-|   | [GCD Matrix](https://www.hackerrank.com/challenges/gcd-matrix)| Java |  | | Hard | 60 | ||
-|   | [Coin on the Table](https://www.hackerrank.com/challenges/coin-on-the-table)| Java |  | | Medium | 65 | ||
-|   | [Interval Selection](https://www.hackerrank.com/challenges/interval-selection)| Java |  | | Medium | 65 | ||
-|   | [Red John is Back](https://www.hackerrank.com/challenges/red-john-is-back)| Java |  | | Medium | 65 | ||
-|   | [Play with words](https://www.hackerrank.com/challenges/strplay)| Java |  | | Medium | 65 | ||
-|   | [Queens on Board](https://www.hackerrank.com/challenges/queens-on-board)| Java |  | | Hard | 70 | ||
-|   | [String Reduction](https://www.hackerrank.com/challenges/string-reduction)| Java |  | | Hard | 70 | ||
-|   | [Far Vertices](https://www.hackerrank.com/challenges/far-vertices)| Java |  | | Hard | 70 | ||
-|   | [The Indian Job](https://www.hackerrank.com/challenges/the-indian-job)| Java |  | | Medium | 70 | ||
-|   | [Hexagonal Grid](https://www.hackerrank.com/challenges/hexagonal-grid)| Java |  | | Hard | 70 | ||
-|   | [Longest Palindromic Subsequence](https://www.hackerrank.com/challenges/longest-palindromic-subsequence)| Java |  | | Hard | 70 | ||
-|   | [Turn Off the Lights](https://www.hackerrank.com/challenges/turn-off-the-lights)| Java |  | | Hard | 70 | ||
-|   | [Tara's Beautiful Permutations](https://www.hackerrank.com/challenges/taras-beautiful-permutations)| Java |  | | Hard | 70 | ||
-|   | [Two Subarrays](https://www.hackerrank.com/challenges/two-subarrays)| Java |  | | Expert | 70 | ||
-|   | [Mining](https://www.hackerrank.com/challenges/mining)| Java |  | | Advanced | 75 | ||
-|   | [The Longest Common Subsequence (LCS)](https://www.hackerrank.com/challenges/linkedin-practice-dynamic-programming-lcs)| Java |  | | Hard | 75 | ||
-|   | [Points in a Plane](https://www.hackerrank.com/challenges/points-in-a-plane)| Java |  | | Advanced | 80 | ||
-|   | [Fairy Chess](https://www.hackerrank.com/challenges/fairy-chess)| Java |  | | Advanced | 80 | ||
-|   | [Billboards](https://www.hackerrank.com/challenges/billboards)| Java |  | | Advanced | 80 | ||
-|   | [Requirement](https://www.hackerrank.com/challenges/requirement)| Java |  | | Advanced | 80 | ||
-|   | [A Super Hero](https://www.hackerrank.com/challenges/a-super-hero)| Java |  | | Hard | 80 | ||
-|   | [Covering the stains](https://www.hackerrank.com/challenges/covering-the-stains)| Java |  | | Hard | 80 | ||
-|   | [Superman Celebrates Diwali](https://www.hackerrank.com/challenges/superman-celebrates-diwali)| Java |  | | Hard | 80 | ||
-|   | [Wet Shark and Two Subsequences](https://www.hackerrank.com/challenges/wet-shark-and-two-subsequences)| Java |  | | Medium | 80 | ||
-|   | [Zurikela's Graph](https://www.hackerrank.com/challenges/zurikela)| Java |  | | Hard | 80 | ||
-|   | [New Year Present](https://www.hackerrank.com/challenges/newyear-present )| Java |  | | Hard | 80 | ||
-|   | [Suffix Rotation](https://www.hackerrank.com/challenges/suffix-rotation)| Java |  | | Expert | 80 | ||
-|   | [Black and White Tree](https://www.hackerrank.com/challenges/black-n-white-tree-1)| Java |  | | Hard | 80 | ||
-|   | [Beautiful Strings](https://www.hackerrank.com/challenges/beautiful-string)| Java |  | | Hard | 80 | ||
-|   | [Longest Mod Path](https://www.hackerrank.com/challenges/longest-mod-path)| Java |  | | Hard | 80 | ||
-|   | [Super Functional Strings](https://www.hackerrank.com/challenges/super-functional-strings)| Java |  | | Advanced | 80 | ||
-|   | [Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree)| Java |  | | Advanced | 80 | ||
-|   | [Liars](https://www.hackerrank.com/challenges/liars)| Java |  | | Advanced | 85 | ||
-|   | [Dorsey Thief](https://www.hackerrank.com/challenges/dorsey-thief)| Java |  | | Advanced | 85 | ||
-|   | [Swap Permutation](https://www.hackerrank.com/challenges/swappermutation)| Java |  | | Medium | 85 | ||
-|   | [Candles Counting](https://www.hackerrank.com/challenges/candles-2)| Java |  | | Medium | 85 | ||
-|   | [Square Subsequences](https://www.hackerrank.com/challenges/square-subsequences)| Java |  | | Hard | 90 | ||
-|   | [Hyper Strings](https://www.hackerrank.com/challenges/hyper-strings)| Java |  | | Advanced | 90 | ||
-|   | [Unique Divide And Conquer](https://www.hackerrank.com/challenges/unique-divide-and-conquer)| Java |  | | Advanced | 90 | ||
-|   | [Super Kth LIS](https://www.hackerrank.com/challenges/super-kth-lis)| Java |  | | Advanced | 90 | ||
-|   | [Counting Road Networks](https://www.hackerrank.com/challenges/counting-road-networks)| Java |  | | Expert | 90 | ||
-|   | [Lucky Numbers](https://www.hackerrank.com/challenges/lucky-numbers)| Java |  | | Expert | 100 | ||
-|   | [Count Scorecards](https://www.hackerrank.com/challenges/count-scorecards)| Java |  | | Expert | 100 | ||
-|   | [Unfair Game](https://www.hackerrank.com/challenges/unfair-game)| Java |  | | Advanced | 100 | ||
-|   | [Oil Well](https://www.hackerrank.com/challenges/oil-well)| Java |  | | Hard | 100 | ||
-|   | [Modify The Sequence](https://www.hackerrank.com/challenges/modify-the-sequence)| Java |  | | Advanced | 100 | ||
-|   | [Divisible Numbers](https://www.hackerrank.com/challenges/divisible-numbers)| Java |  | | Expert | 100 | ||
-|   | [Ones and Twos](https://www.hackerrank.com/challenges/ones-and-twos)| Java |  | | Hard | 100 | ||
-|   | [Extremum Permutations](https://www.hackerrank.com/challenges/extremum-permutations)| Java |  | | Medium | 100 | ||
-|   | [Tree Pruning](https://www.hackerrank.com/challenges/tree-pruning)| Java |  | | Advanced | 100 | ||
-|   | [P-sequences](https://www.hackerrank.com/challenges/p-sequences)| Java |  | | Hard | 100 | ||
-|   | [Best spot](https://www.hackerrank.com/challenges/best-spot)| Java |  | | Advanced | 100 | ||
-|   | [Find the Seed](https://www.hackerrank.com/challenges/find-the-seed)| Java |  | | Advanced | 100 | ||
-|   | [The Blacklist](https://www.hackerrank.com/challenges/the-blacklist)| Java |  | | Advanced | 100 | ||
-|   | [Police Operation](https://www.hackerrank.com/challenges/police-operation)| Java |  | | Hard | 100 | ||
-|   | [Road Maintenance](https://www.hackerrank.com/challenges/road-maintenance)| Java |  | | Hard | 100 | ||
-|   | [King and Four Sons](https://www.hackerrank.com/challenges/happy-king)| Java |  | | Expert | 100 | ||
-|   | [Counting the Ways](https://www.hackerrank.com/challenges/count-ways-1)| Java |  | | Expert | 100 | ||
-|   | [Hard Disk Drives](https://www.hackerrank.com/challenges/hard-drive-disks)| Java |  | | Expert | 100 | ||
-|   | [Travel around the world](https://www.hackerrank.com/challenges/travel-around-the-world)| Java |  | | Medium | 120 | ||
-|   | [Robot](https://www.hackerrank.com/challenges/robot)| Java |  | | Advanced | 120 | ||
-|   | [Vim War](https://www.hackerrank.com/challenges/vim-war)| Java |  | | Advanced | 120 | ||
-|   | [Dortmund Dilemma](https://www.hackerrank.com/challenges/dortmund-dilemma)| Java |  | | Advanced | 150 | ||
-|   | [Separate the chocolate](https://www.hackerrank.com/challenges/separate-the-chocolate)| Java |  | | Expert | 250 | ||
+|   | [Equal](https://www.hackerrank.com/challenges/equal)| - |  | | Medium | 30 | ||
+|   | [Cut Tree](https://www.hackerrank.com/challenges/cuttree)| - |  | | Medium | 40 | ||
+|   | [Mr K marsh](https://www.hackerrank.com/challenges/mr-k-marsh)| - |  | | Medium | 40 | ||
+|   | [Sam and sub-strings](https://www.hackerrank.com/challenges/sam-and-substrings)| - |  | | Medium | 40 | ||
+|   | [Summing Pieces](https://www.hackerrank.com/challenges/summing-pieces)| - |  | | Medium | 40 | ||
+|   | [Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome)| - |  | | Medium | 40 | ||
+|   | [Abbreviation](https://www.hackerrank.com/challenges/abbr)| - |  | | Medium | 40 | ||
+|   | [Fair Cut](https://www.hackerrank.com/challenges/fair-cut)| - |  | | Medium | 40 | ||
+|   | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified)| - |  | | Medium | 45 | ||
+|   | [Lego Blocks](https://www.hackerrank.com/challenges/lego-blocks)| - |  | | Medium | 50 | ||
+|   | [Candies](https://www.hackerrank.com/challenges/candies)| - |  | | Medium | 50 | ||
+|   | [Stock Maximize](https://www.hackerrank.com/challenges/stockmax)| - |  | | Medium | 50 | ||
+|   | [Angry Childtren 2](https://www.hackerrank.com/challenges/angry-children-2)| - |  | | Hard | 50 | ||
+|   | [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray)| - |  | | Medium | 50 | ||
+|   | [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost)| - |  | | Medium | 50 | ||
+|   | [Xor and Sum](https://www.hackerrank.com/challenges/xor-and-sum)| - |  | | Medium | 50 | ||
+|   | [Counting Special Sub-Cubes](https://www.hackerrank.com/challenges/counting-special-sub-cubes)| - |  | | Medium | 50 | ||
+|   | [Two Robots](https://www.hackerrank.com/challenges/two-robots)| - |  | | Medium | 50 | ||
+|   | [Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division)| - |  | | Medium | 50 | ||
+|   | [Prime XOR](https://www.hackerrank.com/challenges/prime-xor)| - |  | | Medium | 50 | ||
+|   | [HackerRank City](https://www.hackerrank.com/challenges/hr-city)| - |  | | Medium | 50 | ||
+|   | [Nikita and the Game](https://www.hackerrank.com/challenges/array-splitting)| - |  | | Medium | 50 | ||
+|   | [Prime Digit Sums](https://www.hackerrank.com/challenges/prime-digit-sums)| - |  | | Medium | 50 | ||
+|   | [Mandragora Forest](https://www.hackerrank.com/challenges/mandragora)| - |  | | Medium | 50 | ||
+|   | [LCS Returns](https://www.hackerrank.com/challenges/tutzki-and-lcs)| - |  | | Medium | 50 | ||
+|   | [Grid Walking](https://www.hackerrank.com/challenges/grid-walking)| - |  | | Medium | 55 | ||
+|   | [Bricks Game](https://www.hackerrank.com/challenges/play-game)| - |  | | Medium | 55 | ||
+|   | [The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence)| - |  | | Medium | 55 | ||
+|   | [Substring Diff](https://www.hackerrank.com/challenges/substring-diff)| - |  | | Medium | 60 | ||
+|   | [Brick Tiling](https://www.hackerrank.com/challenges/brick-tiling)| - |  | | Hard | 60 | ||
+|   | [Alien Languages](https://www.hackerrank.com/challenges/alien-languages)| - |  | | Hard | 60 | ||
+|   | [The Longest Increasing Subsequence](https://www.hackerrank.com/challenges/longest-increasing-subsequent)| - |  | | Advanced | 60 | ||
+|   | [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change)| - |  | | Hard | 60 | ||
+|   | [Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack)| - |  | | Medium | 60 | ||
+|   | [Sherlock's Array Merging Algorithm](https://www.hackerrank.com/challenges/sherlocks-array-merging-algorithm)| - |  | | Hard | 60 | ||
+|   | [New Year Game](https://www.hackerrank.com/challenges/newyear-game)| - |  | | Medium | 60 | ||
+|   | [Shashank and the Palindromic Strings](https://www.hackerrank.com/challenges/shashank-and-palindromic-strings)| - |  | | Advanced | 60 | ||
+|   | [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers)| - |  | | Hard | 60 | ||
+|   | [Choosing White Balls](https://www.hackerrank.com/challenges/choosing-white-balls)| - |  | | Hard | 60 | ||
+|   | [DP: Coin Change](https://www.hackerrank.com/challenges/ctci-coin-change)| - |  | | Hard | 60 | ||
+|   | [Clues on a Binary Path](https://www.hackerrank.com/challenges/clues-on-a-binary-path)| - |  | | Hard | 60 | ||
+|   | [GCD Matrix](https://www.hackerrank.com/challenges/gcd-matrix)| - |  | | Hard | 60 | ||
+|   | [Coin on the Table](https://www.hackerrank.com/challenges/coin-on-the-table)| - |  | | Medium | 65 | ||
+|   | [Interval Selection](https://www.hackerrank.com/challenges/interval-selection)| - |  | | Medium | 65 | ||
+|   | [Red John is Back](https://www.hackerrank.com/challenges/red-john-is-back)| - |  | | Medium | 65 | ||
+|   | [Play with words](https://www.hackerrank.com/challenges/strplay)| - |  | | Medium | 65 | ||
+|   | [Queens on Board](https://www.hackerrank.com/challenges/queens-on-board)| - |  | | Hard | 70 | ||
+|   | [String Reduction](https://www.hackerrank.com/challenges/string-reduction)| - |  | | Hard | 70 | ||
+|   | [Far Vertices](https://www.hackerrank.com/challenges/far-vertices)| - |  | | Hard | 70 | ||
+|   | [The Indian Job](https://www.hackerrank.com/challenges/the-indian-job)| - |  | | Medium | 70 | ||
+|   | [Hexagonal Grid](https://www.hackerrank.com/challenges/hexagonal-grid)| - |  | | Hard | 70 | ||
+|   | [Longest Palindromic Subsequence](https://www.hackerrank.com/challenges/longest-palindromic-subsequence)| - |  | | Hard | 70 | ||
+|   | [Turn Off the Lights](https://www.hackerrank.com/challenges/turn-off-the-lights)| - |  | | Hard | 70 | ||
+|   | [Tara's Beautiful Permutations](https://www.hackerrank.com/challenges/taras-beautiful-permutations)| - |  | | Hard | 70 | ||
+|   | [Two Subarrays](https://www.hackerrank.com/challenges/two-subarrays)| - |  | | Expert | 70 | ||
+|   | [Mining](https://www.hackerrank.com/challenges/mining)| - |  | | Advanced | 75 | ||
+|   | [The Longest Common Subsequence (LCS)](https://www.hackerrank.com/challenges/linkedin-practice-dynamic-programming-lcs)| - |  | | Hard | 75 | ||
+|   | [Points in a Plane](https://www.hackerrank.com/challenges/points-in-a-plane)| - |  | | Advanced | 80 | ||
+|   | [Fairy Chess](https://www.hackerrank.com/challenges/fairy-chess)| - |  | | Advanced | 80 | ||
+|   | [Billboards](https://www.hackerrank.com/challenges/billboards)| - |  | | Advanced | 80 | ||
+|   | [Requirement](https://www.hackerrank.com/challenges/requirement)| - |  | | Advanced | 80 | ||
+|   | [A Super Hero](https://www.hackerrank.com/challenges/a-super-hero)| - |  | | Hard | 80 | ||
+|   | [Covering the stains](https://www.hackerrank.com/challenges/covering-the-stains)| - |  | | Hard | 80 | ||
+|   | [Superman Celebrates Diwali](https://www.hackerrank.com/challenges/superman-celebrates-diwali)| - |  | | Hard | 80 | ||
+|   | [Wet Shark and Two Subsequences](https://www.hackerrank.com/challenges/wet-shark-and-two-subsequences)| - |  | | Medium | 80 | ||
+|   | [Zurikela's Graph](https://www.hackerrank.com/challenges/zurikela)| - |  | | Hard | 80 | ||
+|   | [New Year Present](https://www.hackerrank.com/challenges/newyear-present )| - |  | | Hard | 80 | ||
+|   | [Suffix Rotation](https://www.hackerrank.com/challenges/suffix-rotation)| - |  | | Expert | 80 | ||
+|   | [Black and White Tree](https://www.hackerrank.com/challenges/black-n-white-tree-1)| - |  | | Hard | 80 | ||
+|   | [Beautiful Strings](https://www.hackerrank.com/challenges/beautiful-string)| - |  | | Hard | 80 | ||
+|   | [Longest Mod Path](https://www.hackerrank.com/challenges/longest-mod-path)| - |  | | Hard | 80 | ||
+|   | [Super Functional Strings](https://www.hackerrank.com/challenges/super-functional-strings)| - |  | | Advanced | 80 | ||
+|   | [Kitty's Calculations on a Tree](https://www.hackerrank.com/challenges/kittys-calculations-on-a-tree)| - |  | | Advanced | 80 | ||
+|   | [Liars](https://www.hackerrank.com/challenges/liars)| - |  | | Advanced | 85 | ||
+|   | [Dorsey Thief](https://www.hackerrank.com/challenges/dorsey-thief)| - |  | | Advanced | 85 | ||
+|   | [Swap Permutation](https://www.hackerrank.com/challenges/swappermutation)| - |  | | Medium | 85 | ||
+|   | [Candles Counting](https://www.hackerrank.com/challenges/candles-2)| - |  | | Medium | 85 | ||
+|   | [Square Subsequences](https://www.hackerrank.com/challenges/square-subsequences)| - |  | | Hard | 90 | ||
+|   | [Hyper Strings](https://www.hackerrank.com/challenges/hyper-strings)| - |  | | Advanced | 90 | ||
+|   | [Unique Divide And Conquer](https://www.hackerrank.com/challenges/unique-divide-and-conquer)| - |  | | Advanced | 90 | ||
+|   | [Super Kth LIS](https://www.hackerrank.com/challenges/super-kth-lis)| - |  | | Advanced | 90 | ||
+|   | [Counting Road Networks](https://www.hackerrank.com/challenges/counting-road-networks)| - |  | | Expert | 90 | ||
+|   | [Lucky Numbers](https://www.hackerrank.com/challenges/lucky-numbers)| - |  | | Expert | 100 | ||
+|   | [Count Scorecards](https://www.hackerrank.com/challenges/count-scorecards)| - |  | | Expert | 100 | ||
+|   | [Unfair Game](https://www.hackerrank.com/challenges/unfair-game)| - |  | | Advanced | 100 | ||
+|   | [Oil Well](https://www.hackerrank.com/challenges/oil-well)| - |  | | Hard | 100 | ||
+|   | [Modify The Sequence](https://www.hackerrank.com/challenges/modify-the-sequence)| - |  | | Advanced | 100 | ||
+|   | [Divisible Numbers](https://www.hackerrank.com/challenges/divisible-numbers)| - |  | | Expert | 100 | ||
+|   | [Ones and Twos](https://www.hackerrank.com/challenges/ones-and-twos)| - |  | | Hard | 100 | ||
+|   | [Extremum Permutations](https://www.hackerrank.com/challenges/extremum-permutations)| - |  | | Medium | 100 | ||
+|   | [Tree Pruning](https://www.hackerrank.com/challenges/tree-pruning)| - |  | | Advanced | 100 | ||
+|   | [P-sequences](https://www.hackerrank.com/challenges/p-sequences)| - |  | | Hard | 100 | ||
+|   | [Best spot](https://www.hackerrank.com/challenges/best-spot)| - |  | | Advanced | 100 | ||
+|   | [Find the Seed](https://www.hackerrank.com/challenges/find-the-seed)| - |  | | Advanced | 100 | ||
+|   | [The Blacklist](https://www.hackerrank.com/challenges/the-blacklist)| - |  | | Advanced | 100 | ||
+|   | [Police Operation](https://www.hackerrank.com/challenges/police-operation)| - |  | | Hard | 100 | ||
+|   | [Road Maintenance](https://www.hackerrank.com/challenges/road-maintenance)| - |  | | Hard | 100 | ||
+|   | [King and Four Sons](https://www.hackerrank.com/challenges/happy-king)| - |  | | Expert | 100 | ||
+|   | [Counting the Ways](https://www.hackerrank.com/challenges/count-ways-1)| - |  | | Expert | 100 | ||
+|   | [Hard Disk Drives](https://www.hackerrank.com/challenges/hard-drive-disks)| - |  | | Expert | 100 | ||
+|   | [Travel around the world](https://www.hackerrank.com/challenges/travel-around-the-world)| - |  | | Medium | 120 | ||
+|   | [Robot](https://www.hackerrank.com/challenges/robot)| - |  | | Advanced | 120 | ||
+|   | [Vim War](https://www.hackerrank.com/challenges/vim-war)| - |  | | Advanced | 120 | ||
+|   | [Dortmund Dilemma](https://www.hackerrank.com/challenges/dortmund-dilemma)| - |  | | Advanced | 150 | ||
+|   | [Separate the chocolate](https://www.hackerrank.com/challenges/separate-the-chocolate)| - |  | | Expert | 250 | ||
 
 ### Bit Manipulation
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
@@ -469,7 +469,7 @@
 ### Constructive Algorithms
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Lena Sort](https://www.hackerrank.com/challenges/lena-sort)| Java |  | | Medium | 30 | ||
+|   | [Lena Sort](https://www.hackerrank.com/challenges/lena-sort)| - |  | | Medium | 30 | ||
 |   | [Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix)| - | | | Medium | 30 | ||
 |   | [Gaming Array](https://www.hackerrank.com/challenges/an-interesting-game-1)| - |  | | Medium | 35 | ||
 |   | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos)| - |  | | Medium | 40 | ||
@@ -503,7 +503,7 @@
 |   | [Maximizing the Function](https://www.hackerrank.com/challenges/maximizing-the-function)| - |  | | Hard | 70| ||
 |   | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo)| - |  | | Hard | 80| ||
 |   | [Gridland Provinces](https://www.hackerrank.com/challenges/gridland-provinces)| - |  | | Hard | 80| ||
-|   | [Fighting Pits](https://www.hackerrank.com/challenges/fighting-pits)| Java |  | | - | 80| ||
+|   | [Fighting Pits](https://www.hackerrank.com/challenges/fighting-pits)| - |  | | - | 80| ||
 |   | [Find the permutation](https://www.hackerrank.com/challenges/find-the-permutation)| - |  | | Expert | 150| ||
 
 ### Missing Lines
