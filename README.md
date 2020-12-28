@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  The structure of this readme was copied from <a href="https://github.com/RyanFehr">RyanFehr</a>
+  The structure of this readme was copied from <a href="https://github.com/RyanFehr">RyanFehr</a>.
 </p>
 
 ## Core CS ![AlgorithmsPoints]
