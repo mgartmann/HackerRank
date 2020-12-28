@@ -43,16 +43,16 @@
 
 ### DataStructures
 - [Arrays](./README.md#Arrays)
-- Linked Lists
-- Trees
-- Balanced Trees
-- Stacks
-- Queues
-- Heap
-- Disjoint Set
-- Multiple Choice
-- Trie
-- Advanced
+- [Linked Lists](./README.md#Linked-Lists)
+- [Trees](./README.md#Trees)
+- [Balanced Trees](./README.md#Balances-Trees)
+- [Stacks](./README.md#Stacks)
+- [Queues](./README.md#Queues)
+- [Heap](./README.md#Heap)
+- [Disjoint Set](./README.md#Disjoint-Set)
+- [Multiple Choice](./README.md#Multiple-Choice)
+- [Trie](./README.md#Trie)
+- [Advanced](./README.md#Advanced)
 
 ### Math
 - Fundamentals
