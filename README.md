@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-2-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-3-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-28/12/2020-brightgreen.svg">
 </p>
@@ -84,7 +84,7 @@
 |  |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| - | | | Easy | 10 | ||
 |   | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit)| - |  | | Easy| 10| ||
 |   | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)| - |  | | Easy| 10| ||
-|   | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)| - |  | | Easy| 10| ||
+|   | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)| [C#](https://github.com/ilgiardino/HackerRank/tree/main/Algorithms/Implementation/AppleAndOrange) |  | | Easy| 10| ||
 |   | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)| - | | | Easy| 10| ||
 |  |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)| - | | | Easy | 10 | ||
 |   | [Grading Students](https://www.hackerrank.com/challenges/grading)| [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/GradingStudents/Program.cs) | _O(n)_ | _O(n)_ | Easy| 10| ||
