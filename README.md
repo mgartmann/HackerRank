@@ -16,6 +16,12 @@
   The structure of this readme was copied from <a href="https://github.com/RyanFehr">RyanFehr</a>.
 </p>
 
+<p align="center">
+	<img src="https://img.shields.io/badge/Problems%20Solved-1-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Language-C%23-orange.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-28/12/2020-brightgreen.svg">
+</p>
+
 ## Core CS
 ### General Programming
 - [Basic Programming](./README.md#basic-programming)
@@ -33,29 +39,28 @@
 ### Implementation
 - [Brute-Force](./README.md#brute-force)
 ### Debugging
-- [Missing Lines](./README_V2.md#missing-lines)
+- [Missing Lines](./README.md#missing-lines)
 
 ### DataStructures
-- Arrays
-- Linked Lists
-- Trees
-- Balanced Trees
-- Stacks
-- Queues
-- Heap
-- Disjoint Set
-- Multiple Choice
-- Trie
-- Advanced
+- [Arrays](./README.md#Arrays)
+- [Stacks](./README.md#Stacks)
+- [Trees](./README.md#Trees)
+- [Linked Lists](./README.md#Linked-Lists)
+- [Graphs](./README.md#Graphs)
+- [Tries](./README.md#Tries)
+- [Queues](./README.md#Queues)
+- [Suffix Array](./README.md#Suffix-Array)
+- [Heaps](./README.md#Heaps)
+- [Disjoint Set](./README.md#Disjoint-Set)
 
 ### Math
-- Fundamentals
-- Number Theory
-- Combinatorics
-- Algebra
-- Geometry
-- Probability
-- Linear Algebra Foundations
+- [Fundamentals](./README.md#Fundamentals)
+- [Number Theory](./README.md#Number-Theory)
+- [Game Theory](./README.md#Game-Theory)
+- [Geometry](./README.md#Geometry)
+- [Algebra](./README.md#Algebra)
+- [Combinatorics](./README.md#Combinatorics)
+- [Probability](./README.md#Probability)
 
 
 ## Languages
@@ -490,7 +495,7 @@
 |   | [Enryption](https://www.hackerrank.com/challenges/encryption)| - |  | | Medium | 30| ||
 |   | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)| - |  | | Easy | 30| ||
 |   | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers)| - |  | | Easy | 30| ||
-|   | [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2)| - | | | Medium | 30| ||
+|   | [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2)| [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/QueensAttack2) | | | Medium | 30| ||
 |   | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls)| - | | | Medium | 30| ||
 |   | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater)| - |  | | Medium | 35| ||
 |   | [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses)| - |  | | Medium | 40| ||
@@ -555,6 +560,10 @@
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 
 ## Math
+### Fundamentals
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+
 ### Number Theory
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
@@ -571,9 +580,6 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 
-### Fundamentals
-| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
------|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 
 ### Combinatorics
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
