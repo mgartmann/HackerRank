@@ -62,11 +62,6 @@
 - [Combinatorics](./README.md#Combinatorics)
 - [Probability](./README.md#Probability)
 
-
-## Languages
-### C#
-- Queen's Attack II
-
 ## Solutions
 ### Basic Programming
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
