@@ -39,10 +39,10 @@
 ### Implementation
 - [Brute-Force](./README.md#brute-force)
 ### Debugging
-- [Missing Lines](./README_V2.md#missing-lines)
+- [Missing Lines](./README.md#missing-lines)
 
 ### DataStructures
-- Arrays
+- [Arrays](./README.md#Arrays)
 - Linked Lists
 - Trees
 - Balanced Trees
