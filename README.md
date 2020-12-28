@@ -43,25 +43,24 @@
 
 ### DataStructures
 - [Arrays](./README.md#Arrays)
-- [Linked Lists](./README.md#Linked-Lists)
-- [Trees](./README.md#Trees)
-- [Balanced Trees](./README.md#Balances-Trees)
 - [Stacks](./README.md#Stacks)
+- [Trees](./README.md#Trees)
+- [Linked Lists](./README.md#Linked-Lists)
+- [Graphs](./README.md#Graphs)
+- [Tries](./README.md#Tries)
 - [Queues](./README.md#Queues)
-- [Heap](./README.md#Heap)
+- [Suffix Array](./README.md#Suffix-Array)
+- [Heaps](./README.md#Heaps)
 - [Disjoint Set](./README.md#Disjoint-Set)
-- [Multiple Choice](./README.md#Multiple-Choice)
-- [Trie](./README.md#Trie)
-- [Advanced](./README.md#Advanced)
 
 ### Math
-- Fundamentals
-- Number Theory
-- Combinatorics
-- Algebra
-- Geometry
-- Probability
-- Linear Algebra Foundations
+- [Fundamentals](./README.md#Fundamentals)
+- [Number Theory](./README.md#Number-Theory)
+- [Game Theory](./README.md#Game-Theory)
+- [Geometry](./README.md#Geometry)
+- [Algebra](./README.md#Algebra)
+- [Combinatorics](./README.md#Combinatorics)
+- [Probability](./README.md#Probability)
 
 
 ## Languages
@@ -561,6 +560,10 @@
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 
 ## Math
+### Fundamentals
+| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+
 ### Number Theory
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
@@ -577,9 +580,6 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 
-### Fundamentals
-| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
------|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 
 ### Combinatorics
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
