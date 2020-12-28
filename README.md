@@ -490,7 +490,7 @@
 |   | [Enryption](https://www.hackerrank.com/challenges/encryption)| - |  | | Medium | 30| ||
 |   | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)| - |  | | Easy | 30| ||
 |   | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers)| - |  | | Easy | 30| ||
-|   | [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2)| - | | | Medium | 30| ||
+|   | [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2)| [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/QueensAttack2) | | | Medium | 30| ||
 |   | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls)| - | | | Medium | 30| ||
 |   | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater)| - |  | | Medium | 35| ||
 |   | [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses)| - |  | | Medium | 40| ||
