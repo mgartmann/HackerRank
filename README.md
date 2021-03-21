@@ -114,7 +114,7 @@
 |   | [Divisible Pairs Sum](https://www.hackerrank.com/challenges/linkedin-practice-divisible-sum-pairs)| - |  | | Easy| 20| ||
 |   | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete)| - |  | | Easy | 20| ||
 |   | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)| - | | | Easy| 20| ||
-|   | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)| - | | | Easy| 20| ||
+|   | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)| [C#](https://github.com/ilgiardino/HackerRank/tree/main/Algorithms/Implementation/ClimbingTheLeaderboard) | _O(m+n)_ | _O(m+n)_ | Medium | 20| Only 18 points received. ||
 |   | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation)| - |  | | Easy | 20| ||
 |   | [Find Digits](https://www.hackerrank.com/challenges/find-digits)| - |  | | Easy | 25| ||
 |   | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)| - |  | | Easy | 25| ||
@@ -485,7 +485,7 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |   | [Pangrams](https://www.hackerrank.com/challenges/pangrams)| - |  | | Easy | 20| ||
-|   | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)| - | | | Easy| 20| ||
+|   | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)| [C#](https://github.com/ilgiardino/HackerRank/tree/main/Algorithms/Implementation/ClimbingTheLeaderboard) | _O(m+n)_ | _O(m+n)_ | Medium| 20| only 18 points received. ||
 |   | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams)| - | | | Easy | 30| ||
 |   | [Enryption](https://www.hackerrank.com/challenges/encryption)| - |  | | Medium | 30| ||
 |   | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)| - |  | | Easy | 30| ||
