@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-3-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-5-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-28/12/2020-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-21/03/2021-brightgreen.svg">
 </p>
 
 ## Core CS
@@ -71,7 +71,7 @@
 |  |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)| - | | | Easy | 10 | ||
 |  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)| - | | | Easy | 10 | ||
 |  |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)| - | | | Easy | 10 | ||
-|  |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)| - | | | Easy | 10 | ||
+|  |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)| [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/SimpleArraySum/Program.cs) | _O(m)_| _O(m)_ | Easy | 10 | ||
 |  |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)| - | | | Easy | 10 | ||
 |   | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)| - |  | | Easy| 10| ||
 |   | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)| - |  | | Easy| 10| ||
@@ -114,7 +114,7 @@
 |   | [Divisible Pairs Sum](https://www.hackerrank.com/challenges/linkedin-practice-divisible-sum-pairs)| - |  | | Easy| 20| ||
 |   | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete)| - |  | | Easy | 20| ||
 |   | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)| - | | | Easy| 20| ||
-|   | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)| - | | | Easy| 20| ||
+|   | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)| [C#](https://github.com/ilgiardino/HackerRank/tree/main/Algorithms/Implementation/ClimbingTheLeaderboard/Program.cs) | _O(m+n)_ | _O(m+n)_ | Medium | 20| Only 18 points received. ||
 |   | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation)| - |  | | Easy | 20| ||
 |   | [Find Digits](https://www.hackerrank.com/challenges/find-digits)| - |  | | Easy | 25| ||
 |   | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)| - |  | | Easy | 25| ||
@@ -485,7 +485,7 @@
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |   | [Pangrams](https://www.hackerrank.com/challenges/pangrams)| - |  | | Easy | 20| ||
-|   | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)| - | | | Easy| 20| ||
+|   | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)| [C#](https://github.com/ilgiardino/HackerRank/tree/main/Algorithms/Implementation/ClimbingTheLeaderboard/Program.cs) | _O(m+n)_ | _O(m+n)_ | Medium| 20| only 18 points received. ||
 |   | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams)| - | | | Easy | 30| ||
 |   | [Enryption](https://www.hackerrank.com/challenges/encryption)| - |  | | Medium | 30| ||
 |   | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)| - |  | | Easy | 30| ||
