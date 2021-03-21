@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-5-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-6-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23-orange.svg">
 	<img src="https://img.shields.io/badge/Latest%20Update-21/03/2021-brightgreen.svg">
 </p>
@@ -132,6 +132,8 @@
 |   | [Strange Counter](https://www.hackerrank.com/challenges/strange-code)| - |  | | Easy | 30| ||
 |   | [Consecutive 1's in Binary Numbers](https://www.hackerrank.com/challenges/linkedin-practice-binary-numbers)| - |  | | Easy | 30| ||
 |   | [Nested Logic](https://www.hackerrank.com/challenges/linkedin-practice-nested-logic)| - |  | | Easy | 30| ||
+|   | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)| [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/DayOfTheProgrammer/Program.cs) | _O(n)_ | _O(n)_ | Easy | 15 | n = 12 months ||
+
 
 ### Object-Oriented Programming
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
@@ -252,6 +254,7 @@
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 |   | [Two Characters](https://www.hackerrank.com/challenges/two-characters)| - | _O(n)_ | _O(1)_ | Easy| 15| ||
 |   | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk)| - | _O(n + k)_ | _O(k)_ | Easy | 15| ||
+|   | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)| [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/DayOfTheProgrammer/Program.cs) | _O(n)_ | _O(n)_ | Easy | 15 | n = 12 months ||
 |  |[Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge)| -| _O(n*(n log (n)))_ | _O(n^2)_| Easy | 20 | ||
 |   | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance)| - | | _O(1)_ | Easy | 20| ||
 |  |[Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle)| - | | | Easy | 20 | ||
