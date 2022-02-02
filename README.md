@@ -86,7 +86,7 @@
 |   | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)| - |  | | Easy| 10| ||
 |   | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)| - |  | | Easy| 10| ||
 |   | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar)| - | | | Easy| 10| ||
-|  |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)| [C#](https://github.com/mgartmann/HackerRank/blob/main/Algorithms/Implementation/TimeConversion/Program.cs) | _O(1)_ |  | Easy | 15 | | Note to self: keep it simple, stupid! See [this solution](https://www.hackerrank.com/rest/contests/master/challenges/time-conversion/hackers/andrewtwest/download_solution).|
+|  |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)| [C#](https://github.com/mgartmann/HackerRank/blob/main/Algorithms/Implementation/TimeConversion/Program.cs) | _O(1)_ |  | Easy | 15 |  Note to self: keep it simple, stupid! See [this solution](https://www.hackerrank.com/rest/contests/master/challenges/time-conversion/hackers/andrewtwest/download_solution).||
 |   | [Library Fine](https://www.hackerrank.com/challenges/library-fine)| - |  | | Easy| 15| ||
 |   | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner)| - |  | | Easy | 15| ||
 |   | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited)| - |  | | Easy | 15| ||
