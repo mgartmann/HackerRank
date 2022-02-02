@@ -76,7 +76,7 @@
 |   | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)| - |  | | Easy| 10| ||
 |   | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)| - |  | | Easy| 10| ||
 |   | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)| - |  | | Easy| 10| ||
-|  |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| - | | | Easy | 10 | ||
+|  |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| [C#](https://github.com/mgartmann/HackerRank/blob/main/Algorithms/Implementation/BirthdayCakeCandles/Program.cs) | _O(n log n)_ | _O(n)_ | Easy | 10 | ||
 |   | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit)| - |  | | Easy| 10| ||
 |   | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)| - |  | | Easy| 10| ||
 |   | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)| [C#](https://github.com/ilgiardino/HackerRank/tree/main/Algorithms/Implementation/AppleAndOrange) | _O(m+n)_ | _O(m+n)_ | Easy| 10| ||
