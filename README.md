@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-6-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-8-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-21/03/2021-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-02/02/2022-brightgreen.svg">
 </p>
 
 ## Core CS
@@ -70,7 +70,7 @@
 |  |[Staircase](https://www.hackerrank.com/challenges/staircase)| - | | | Easy | 10 | ||
 |  |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)| - | | | Easy | 10 | ||
 |  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)| - | | | Easy | 10 | ||
-|  |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)| - | | | Easy | 10 | ||
+|  |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)| [C#](https://github.com/mgartmann/HackerRank/blob/main/Algorithms/Implementation/AVeryBigSum/Program.cs) | _O(n)_| _O(n)_| Easy | 10 | ||
 |  |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)| [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/SimpleArraySum/Program.cs) | _O(m)_| _O(m)_ | Easy | 10 | ||
 |  |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)| - | | | Easy | 10 | ||
 |   | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)| - |  | | Easy| 10| ||
