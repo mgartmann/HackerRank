@@ -72,7 +72,7 @@
 |  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)| - | | | Easy | 10 | ||
 |  |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)| [C#](https://github.com/mgartmann/HackerRank/blob/main/Algorithms/Implementation/AVeryBigSum/Program.cs) | _O(n)_| _O(n)_| Easy | 10 | ||
 |  |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)| [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/SimpleArraySum/Program.cs) | _O(m)_| _O(m)_ | Easy | 10 | ||
-|  |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)| - | | | Easy | 10 | ||
+|  |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)| [C#](https://github.com/mgartmann/HackerRank/blob/main/Algorithms/Implementation/CompareTheTriplets/Program.cs) | _O(n)_| _O(n)_ | Easy | 10 | ||
 |   | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)| - |  | | Easy| 10| ||
 |   | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)| - |  | | Easy| 10| ||
 |   | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)| - |  | | Easy| 10| ||
