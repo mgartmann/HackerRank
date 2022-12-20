@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-9-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-11-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-02/02/2022-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-19/12/2022-brightgreen.svg">
 </p>
 
 ## Core CS
@@ -72,7 +72,7 @@
 |  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)|                                                          -                                                           | | | Easy | 10 | ||
 |  |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)|       [C#](https://github.com/mgartmann/HackerRank/blob/main/Algorithms/Implementation/AVeryBigSum/Program.cs)       | _O(n)_| _O(n)_| Easy | 10 | ||
 |  |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)|     [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/SimpleArraySum/Program.cs)     | _O(m)_| _O(m)_ | Easy | 10 | ||
-|  |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)|                                                          -                                                           | | | Easy | 10 | ||
+|  |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)|                                                          [C#](https://github.com/mgartmann/HackerRank/blob/main/Algorithms/Implementation/CompareTheTriplets/Program.cs) | _O(n)_| _O(n)_ | Easy | 10 | ||
 |   | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)|                                                          -                                                           |  | | Easy| 10| ||
 |   | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)|                                                          -                                                           |  | | Easy| 10| ||
 |   | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)|                                                          -                                                           |  | | Easy| 10| ||
