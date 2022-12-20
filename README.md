@@ -64,75 +64,75 @@
 
 ## Solutions
 ### Basic Programming
-| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
------|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|  |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)| - | | | Easy | 1 | ||
-|  |[Staircase](https://www.hackerrank.com/challenges/staircase)| - | | | Easy | 10 | ||
-|  |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)| - | | | Easy | 10 | ||
-|  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)| - | | | Easy | 10 | ||
-|  |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)| [C#](https://github.com/mgartmann/HackerRank/blob/main/Algorithms/Implementation/AVeryBigSum/Program.cs) | _O(n)_| _O(n)_| Easy | 10 | ||
-|  |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)| [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/SimpleArraySum/Program.cs) | _O(m)_| _O(m)_ | Easy | 10 | ||
-|  |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)| - | | | Easy | 10 | ||
-|   | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)| - |  | | Easy| 10| ||
-|   | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)| - |  | | Easy| 10| ||
-|   | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)| - |  | | Easy| 10| ||
-|  |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)| [C#](https://github.com/mgartmann/HackerRank/blob/main/Algorithms/Implementation/BirthdayCakeCandles/Program.cs) | _O(n log n)_ | _O(n)_ | Easy | 10 | ||
-|   | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit)| - |  | | Easy| 10| ||
-|   | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)| - |  | | Easy| 10| ||
-|   | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)| [C#](https://github.com/ilgiardino/HackerRank/tree/main/Algorithms/Implementation/AppleAndOrange) | _O(m+n)_ | _O(m+n)_ | Easy| 10| ||
-|   | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)| - | | | Easy| 10| ||
-|  |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)| - | | | Easy | 10 | ||
-|   | [Grading Students](https://www.hackerrank.com/challenges/grading)| [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/GradingStudents/Program.cs) | _O(n)_ | _O(n)_ | Easy| 10| ||
-|   | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)| - |  | | Easy| 10| ||
-|   | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)| - |  | | Easy| 10| ||
-|   | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar)| - | | | Easy| 10| ||
-|  |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)| [C#](https://github.com/mgartmann/HackerRank/blob/main/Algorithms/Implementation/TimeConversion/Program.cs) | _O(1)_ |  | Easy | 15 |  Note to self: keep it simple, stupid! See [this solution](https://www.hackerrank.com/rest/contests/master/challenges/time-conversion/hackers/andrewtwest/download_solution).||
-|   | [Library Fine](https://www.hackerrank.com/challenges/library-fine)| - |  | | Easy| 15| ||
-|   | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner)| - |  | | Easy | 15| ||
-|   | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited)| - |  | | Easy | 15| ||
-|   | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)| - |  |  | Easy| 15| ||
-|   | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising)| - |  | | Easy | 15| ||
-|   | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)| - |  | | Easy | 15| ||
-|   | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)| - | | | Easy| 15| _n = m+n_||
-|   | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)| - | | | Easy| 15| ||
-|   | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)| - |  |  | Easy| 15| ||
-|   | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)| - |  | | Easy | 20| ||
-|   | [Service Lane](https://www.hackerrank.com/challenges/service-lane)| - |  | | Easy | 20| ||
-|   | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)| - |  | | Easy | 20| ||
-|   | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares)| - |  | | Easy | 20| ||
-|   | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)| - |  | | Easy | 20| ||
-|   | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)| - |  | | Medium | 20| ||
-|   | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances)| - |  | | Easy | 20| ||
-|   | [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset)| - |  | | Medium | 20| ||
-|   | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)| - |  | | Easy | 20| ||
-|   | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)| - |  | | Easy | 20| ||
-|   | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array)| - |  | | Easy | 20| ||
-|   | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)| - |  | | Easy| 20| ||
-|   | [Magic Square Forming](https://www.hackerrank.com/challenges/magic-square-forming)| - |  | | Easy| 20| ||
-|   | [Repeated String](https://www.hackerrank.com/challenges/repeated-string)| - |  | | Easy | 20| ||
-|   | [Bitwise AND](https://www.hackerrank.com/challenges/linkedin-practice-bitwise-and)| - |  | | Easy| 20| ||
-|   | [Divisible Pairs Sum](https://www.hackerrank.com/challenges/linkedin-practice-divisible-sum-pairs)| - |  | | Easy| 20| ||
-|   | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete)| - |  | | Easy | 20| ||
-|   | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)| - | | | Easy| 20| ||
+| #  | Title           |                                                       Solution                                                       |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:--------------------------------------------------------------------------------------------------------------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|  |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)|                                                          -                                                           | | | Easy | 1 | ||
+|  |[Staircase](https://www.hackerrank.com/challenges/staircase)|                                                          -                                                           | | | Easy | 10 | ||
+|  |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)|                                                          -                                                           | | | Easy | 10 | ||
+|  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)|                                                          -                                                           | | | Easy | 10 | ||
+|  |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)|       [C#](https://github.com/mgartmann/HackerRank/blob/main/Algorithms/Implementation/AVeryBigSum/Program.cs)       | _O(n)_| _O(n)_| Easy | 10 | ||
+|  |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)|     [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/SimpleArraySum/Program.cs)     | _O(m)_| _O(m)_ | Easy | 10 | ||
+|  |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)|                                                          -                                                           | | | Easy | 10 | ||
+|   | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs)|                                                          -                                                           |  | | Easy| 10| ||
+|   | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo)|                                                          -                                                           |  | | Easy| 10| ||
+|   | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book)|                                                          -                                                           |  | | Easy| 10| ||
+|  |[Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)|   [C#](https://github.com/mgartmann/HackerRank/blob/main/Algorithms/Implementation/BirthdayCakeCandles/Program.cs)   | _O(n log n)_ | _O(n)_ | Easy | 10 | ||
+|   | [Bon Appetit](https://www.hackerrank.com/challenges/bon-appetit)|                                                          -                                                           |  | | Easy| 10| ||
+|   | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant)|                                                          -                                                           |  | | Easy| 10| ||
+|   | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)|          [C#](https://github.com/ilgiardino/HackerRank/tree/main/Algorithms/Implementation/AppleAndOrange)           | _O(m+n)_ | _O(m+n)_ | Easy| 10| ||
+|   | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)|                                                          -                                                           | | | Easy| 10| ||
+|  |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)|                                                          -                                                           | | | Easy | 10 | ||
+|   | [Grading Students](https://www.hackerrank.com/challenges/grading)|    [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/GradingStudents/Program.cs)     | _O(n)_ | _O(n)_ | Easy| 10| ||
+|   | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)|                                                          -                                                           |  | | Easy| 10| ||
+|   | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)|                                                          -                                                           |  | | Easy| 10| ||
+|   | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar)|                                                          -                                                           | | | Easy| 10| ||
+|  |[Time Conversion](https://www.hackerrank.com/challenges/time-conversion)|     [C#](https://github.com/mgartmann/HackerRank/blob/main/Algorithms/Implementation/TimeConversion/Program.cs)      | _O(1)_ |  | Easy | 15 |  Note to self: keep it simple, stupid! See [this solution](https://www.hackerrank.com/rest/contests/master/challenges/time-conversion/hackers/andrewtwest/download_solution).||
+|   | [Library Fine](https://www.hackerrank.com/challenges/library-fine)|                                                          -                                                           |  | | Easy| 15| ||
+|   | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner)|                                                          -                                                           |  | | Easy | 15| ||
+|   | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited)|                                                          -                                                           |  | | Easy | 15| ||
+|   | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)|   [Java](https://github.com/mgartmann/HackerRank/blob/main/Algorithms/Implementation/CoutingValley/Solution.java)    | _O(n)_ | _O(n)_ | Easy| 15| ||
+|   | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising)|                                                          -                                                           |  | | Easy | 15| ||
+|   | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)|                                                          -                                                           |  | | Easy | 15| ||
+|   | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)|                                                          -                                                           | | | Easy| 15| _n = m+n_||
+|   | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)|                                                          -                                                           | | | Easy| 15| ||
+|   | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)|                                                          -                                                           |  |  | Easy| 15| ||
+|   | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)|                                                          -                                                           |  | | Easy | 20| ||
+|   | [Service Lane](https://www.hackerrank.com/challenges/service-lane)|                                                          -                                                           |  | | Easy | 20| ||
+|   | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)|                                                          -                                                           |  | | Easy | 20| ||
+|   | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares)|                                                          -                                                           |  | | Easy | 20| ||
+|   | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor)|                                                          -                                                           |  | | Easy | 20| ||
+|   | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials)|                                                          -                                                           |  | | Medium | 20| ||
+|   | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances)|                                                          -                                                           |  | | Easy | 20| ||
+|   | [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset)|                                                          -                                                           |  | | Medium | 20| ||
+|   | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets)|                                                          -                                                           |  | | Easy | 20| ||
+|   | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds)|                                                          -                                                           |  | | Easy | 20| ||
+|   | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array)|                                                          -                                                           |  | | Easy | 20| ||
+|   | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)|                                                          -                                                           |  | | Easy| 20| ||
+|   | [Magic Square Forming](https://www.hackerrank.com/challenges/magic-square-forming)|                                                          -                                                           |  | | Easy| 20| ||
+|   | [Repeated String](https://www.hackerrank.com/challenges/repeated-string)|                                                          -                                                           |  | | Easy | 20| ||
+|   | [Bitwise AND](https://www.hackerrank.com/challenges/linkedin-practice-bitwise-and)|                                                          -                                                           |  | | Easy| 20| ||
+|   | [Divisible Pairs Sum](https://www.hackerrank.com/challenges/linkedin-practice-divisible-sum-pairs)|                                                          -                                                           |  | | Easy| 20| ||
+|   | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete)|                                                          -                                                           |  | | Easy | 20| ||
+|   | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)|                                                          -                                                           | | | Easy| 20| ||
 |   | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)| [C#](https://github.com/ilgiardino/HackerRank/tree/main/Algorithms/Implementation/ClimbingTheLeaderboard/Program.cs) | _O(m+n)_ | _O(m+n)_ | Medium | 20| Only 18 points received. ||
-|   | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation)| - |  | | Easy | 20| ||
-|   | [Find Digits](https://www.hackerrank.com/challenges/find-digits)| - |  | | Easy | 25| ||
-|   | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)| - |  | | Easy | 25| ||
-|   | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks)| - |  | | Easy | 25| ||
-|   | [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team)| - |  | | Easy | 25| ||
-|   | [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday)| - |  | | Easy | 25| ||
-|   | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)| - |  | | Medium | 25| ||
-|   | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations)| - |  | | Easy | 25| ||
-|   | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)| - |  | | Easy | 25| ||
-|   | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations)| - |  | | Easy | 25| ||
-|   | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones)| - |  | | Easy | 30| ||
-|   | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map)| - |  | | Easy | 30| ||
-|   | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search)| - |  | | Medium | 30| ||
-|   | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs)| - |  | | Easy | 30| ||
-|   | [Strange Counter](https://www.hackerrank.com/challenges/strange-code)| - |  | | Easy | 30| ||
-|   | [Consecutive 1's in Binary Numbers](https://www.hackerrank.com/challenges/linkedin-practice-binary-numbers)| - |  | | Easy | 30| ||
-|   | [Nested Logic](https://www.hackerrank.com/challenges/linkedin-practice-nested-logic)| - |  | | Easy | 30| ||
-|   | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)| [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/DayOfTheProgrammer/Program.cs) | _O(n)_ | _O(n)_ | Easy | 15 | n = 12 months ||
+|   | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation)|                                                          -                                                           |  | | Easy | 20| ||
+|   | [Find Digits](https://www.hackerrank.com/challenges/find-digits)|                                                          -                                                           |  | | Easy | 25| ||
+|   | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast)|                                                          -                                                           |  | | Easy | 25| ||
+|   | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks)|                                                          -                                                           |  | | Easy | 25| ||
+|   | [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team)|                                                          -                                                           |  | | Easy | 25| ||
+|   | [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday)|                                                          -                                                           |  | | Easy | 25| ||
+|   | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words)|                                                          -                                                           |  | | Medium | 25| ||
+|   | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations)|                                                          -                                                           |  | | Easy | 25| ||
+|   | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook)|                                                          -                                                           |  | | Easy | 25| ||
+|   | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations)|                                                          -                                                           |  | | Easy | 25| ||
+|   | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones)|                                                          -                                                           |  | | Easy | 30| ||
+|   | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map)|                                                          -                                                           |  | | Easy | 30| ||
+|   | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search)|                                                          -                                                           |  | | Medium | 30| ||
+|   | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs)|                                                          -                                                           |  | | Easy | 30| ||
+|   | [Strange Counter](https://www.hackerrank.com/challenges/strange-code)|                                                          -                                                           |  | | Easy | 30| ||
+|   | [Consecutive 1's in Binary Numbers](https://www.hackerrank.com/challenges/linkedin-practice-binary-numbers)|                                                          -                                                           |  | | Easy | 30| ||
+|   | [Nested Logic](https://www.hackerrank.com/challenges/linkedin-practice-nested-logic)|                                                          -                                                           |  | | Easy | 30| ||
+|   | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)|   [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/DayOfTheProgrammer/Program.cs)   | _O(n)_ | _O(n)_ | Easy | 15 | n = 12 months ||
 
 
 ### Object-Oriented Programming
@@ -169,40 +169,40 @@
 |   | [Count Strings](https://www.hackerrank.com/challenges/count-strings)| - |  | | Hard | 80| ||
 
 ### Sorting
-| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
------|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro)| - | | | Easy | 30| ||
-|   | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1)| - | | | Easy | 30 | ||
-|   | [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2)| | | | Easy | 30 | ||
-|   | [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort)| - |  | | Advanced | 50| ||
-|   | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant)| - | | | Easy | 30 | ||
-|   | [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime)| - | | | Easy | 30 | ||
-|   | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)| - | | | Easy | 10| ||
-|   | [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2)| - | | | Easy | 30| ||
-|   | [Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3)| - | | | Medium| 35| ||
-|   | [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4)| - | | | Easy | 35| ||
-|   | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1)| - | | | Easy | 30| ||
-|   | [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2)| - | | | Easy | 30| ||
-|   | [Counting Sort 3](https://www.hackerrank.com/challenges/countingsort3)| - | | | Easy | 30| ||
-|   | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4)| - | | | Medium | 40| ||
-|   | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk)| - |  |  | Easy | 15| ||
-|   | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array)| - || | Easy | 15| ||
-|   | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls)| - | |  | Medium | 30| ||
-|   | [Find the Median](https://www.hackerrank.com/challenges/find-the-median)| - | | | Easy | 35| ||
-|   | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)| - |  |  | Easy | 35| ||
-|  |[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys)| - | | | Easy | 35 | ||
-|  |[Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays)| - | | | Easy | 40 | ||
-|  |[Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders)| - | | | Easy | 40 | ||
-|   | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications)| - | | | Medium | 40| ||
-|   | [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework)| - | | | Medium | 40| ||
-|   | [Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort)| - |  | | Hard | 45 | ||
-|   | [Mr. X and His Shots](https://www.hackerrank.com/challenges/x-and-his-shots)| - |  | | Medium | 50| ||
-|   | [Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries)| - |  | | Hard | 60| ||
-|   | [GCD Matrix](https://www.hackerrank.com/challenges/gcd-matrix)| - |  | | Hard | 60| ||
-|   | [A Super Hero](https://www.hackerrank.com/challenges/a-super-hero)| - |  | | Hard | 80| ||
-|   | [Functional Palindromes](https://www.hackerrank.com/challenges/functional-palindromes)| - |  | | Advanced | 80| ||
-|   | [Super Functional Strings](https://www.hackerrank.com/challenges/super-functional-strings)| - |  | | Advanced | 80| ||
-|   | [Sorted Subsegments](https://www.hackerrank.com/challenges/sorted-subsegments)| - |  | | Hard | 80| ||
+| #  | Title           |                                                    Solution                                                     |  Time           | Space           | Difficulty    | Points          | Note
+-----|---------------- |:---------------------------------------------------------------------------------------------------------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|   | [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro)|                                                        -                                                        | | | Easy | 30| ||
+|   | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1)|                                                        -                                                        | | | Easy | 30 | ||
+|   | [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2)|                                                                                                                 | | | Easy | 30 | ||
+|   | [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort)|                                                        -                                                        |  | | Advanced | 50| ||
+|   | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant)|                                                        -                                                        | | | Easy | 30 | ||
+|   | [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime)|                                                        -                                                        | | | Easy | 30 | ||
+|   | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)|                                                        -                                                        | | | Easy | 10| ||
+|   | [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2)|                                                        -                                                        | | | Easy | 30| ||
+|   | [Quicksort In-Place](https://www.hackerrank.com/challenges/quicksort3)|                                                        -                                                        | | | Medium| 35| ||
+|   | [Running Time of Quicksort](https://www.hackerrank.com/challenges/quicksort4)|                                                        -                                                        | | | Easy | 35| ||
+|   | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1)|                                                        -                                                        | | | Easy | 30| ||
+|   | [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2)|                                                        -                                                        | | | Easy | 30| ||
+|   | [Counting Sort 3](https://www.hackerrank.com/challenges/countingsort3)|                                                        -                                                        | | | Easy | 30| ||
+|   | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4)|                                                        -                                                        | | | Medium | 40| ||
+|   | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk)|                                                        -                                                        |  |  | Easy | 15| ||
+|   | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array)|                                                        -                                                        || | Easy | 15| ||
+|   | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls)| [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/ContainersOfBalls/Program.cs) | |  | Medium | 30| ||
+|   | [Find the Median](https://www.hackerrank.com/challenges/find-the-median)|                                                        -                                                        | | | Easy | 35| ||
+|   | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)|                                                        -                                                        |  |  | Easy | 35| ||
+|  |[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys)|                                                        -                                                        | | | Easy | 35 | ||
+|  |[Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays)|                                                        -                                                        | | | Easy | 40 | ||
+|  |[Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders)|                                                        -                                                        | | | Easy | 40 | ||
+|   | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications)|                                                        -                                                        | | | Medium | 40| ||
+|   | [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework)|                                                        -                                                        | | | Medium | 40| ||
+|   | [Merge Sort: Counting Inversions](https://www.hackerrank.com/challenges/ctci-merge-sort)|                                                        -                                                        |  | | Hard | 45 | ||
+|   | [Mr. X and His Shots](https://www.hackerrank.com/challenges/x-and-his-shots)|                                                        -                                                        |  | | Medium | 50| ||
+|   | [Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries)|                                                        -                                                        |  | | Hard | 60| ||
+|   | [GCD Matrix](https://www.hackerrank.com/challenges/gcd-matrix)|                                                        -                                                        |  | | Hard | 60| ||
+|   | [A Super Hero](https://www.hackerrank.com/challenges/a-super-hero)|                                                        -                                                        |  | | Hard | 80| ||
+|   | [Functional Palindromes](https://www.hackerrank.com/challenges/functional-palindromes)|                                                        -                                                        |  | | Advanced | 80| ||
+|   | [Super Functional Strings](https://www.hackerrank.com/challenges/super-functional-strings)|                                                        -                                                        |  | | Advanced | 80| ||
+|   | [Sorted Subsegments](https://www.hackerrank.com/challenges/sorted-subsegments)|                                                        -                                                        |  | | Hard | 80| ||
 
 ### Search
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note

@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AVeryBigSum", "Algorithms\I
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeConversion", "Algorithms\Implementation\TimeConversion\TimeConversion.csproj", "{30EFD33B-C4BA-4EAB-91B5-0B00355CB06C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompareTheTriplets", "Algorithms\Implementation\CompareTheTriplets\CompareTheTriplets.csproj", "{387B33C3-7207-45D4-B16A-C81655587F48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompareTheTriplets", "Algorithms\Implementation\CompareTheTriplets\CompareTheTriplets.csproj", "{387B33C3-7207-45D4-B16A-C81655587F48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainersOfBalls", "Algorithms\Implementation\ContainersOfBalls\ContainersOfBalls.csproj", "{43BD1C6C-CF9C-4752-8F3F-395024AEE909}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,18 @@ Global
 		{387B33C3-7207-45D4-B16A-C81655587F48}.Release|x64.Build.0 = Release|Any CPU
 		{387B33C3-7207-45D4-B16A-C81655587F48}.Release|x86.ActiveCfg = Release|Any CPU
 		{387B33C3-7207-45D4-B16A-C81655587F48}.Release|x86.Build.0 = Release|Any CPU
+		{43BD1C6C-CF9C-4752-8F3F-395024AEE909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43BD1C6C-CF9C-4752-8F3F-395024AEE909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43BD1C6C-CF9C-4752-8F3F-395024AEE909}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{43BD1C6C-CF9C-4752-8F3F-395024AEE909}.Debug|x64.Build.0 = Debug|Any CPU
+		{43BD1C6C-CF9C-4752-8F3F-395024AEE909}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{43BD1C6C-CF9C-4752-8F3F-395024AEE909}.Debug|x86.Build.0 = Debug|Any CPU
+		{43BD1C6C-CF9C-4752-8F3F-395024AEE909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43BD1C6C-CF9C-4752-8F3F-395024AEE909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43BD1C6C-CF9C-4752-8F3F-395024AEE909}.Release|x64.ActiveCfg = Release|Any CPU
+		{43BD1C6C-CF9C-4752-8F3F-395024AEE909}.Release|x64.Build.0 = Release|Any CPU
+		{43BD1C6C-CF9C-4752-8F3F-395024AEE909}.Release|x86.ActiveCfg = Release|Any CPU
+		{43BD1C6C-CF9C-4752-8F3F-395024AEE909}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
