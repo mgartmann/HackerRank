@@ -187,7 +187,7 @@
 |   | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4)|                                                        -                                                        | | | Medium | 40| ||
 |   | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk)|                                                        -                                                        |  |  | Easy | 15| ||
 |   | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array)|                                                        -                                                        || | Easy | 15| ||
-|   | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls)| [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/ContainersOfBalls/Program.cs) | |  | Medium | 30| ||
+|   | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls)|  | |  | Medium | 30| ||
 |   | [Find the Median](https://www.hackerrank.com/challenges/find-the-median)|                                                        -                                                        | | | Easy | 35| ||
 |   | [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)|                                                        -                                                        |  |  | Easy | 35| ||
 |  |[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys)|                                                        -                                                        | | | Easy | 35 | ||
