@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-11-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-15-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-19/12/2022-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-23/12/2022-brightgreen.svg">
 </p>
 
 ## Core CS
@@ -526,8 +526,9 @@
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
 
 ### Trees
-| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
------|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+| #  | Title           |                                                      Solution                                                       | Time         | Space  | Difficulty    | Points          | Note
+-----|---------------- |:-------------------------------------------------------------------------------------------------------------------:|--------------|--------|:-------------:|:--------------:| -----
+|    | [Tree: Huffman Decoding](https://www.hackerrank.com/challenges/tree-huffman-decoding/problem) | [Java](https://github.com/mgartmann/HackerRank/blob/main/DataStructures/Trees/HuffmanDecoding/HuffmanDecoding.java) | _O(n log(n)_ | _O(n)_ | Medium | 20 | | 
 
 ### Linked Lists
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
