@@ -532,6 +532,8 @@
 ### Linked Lists
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
 -----|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
+|    | [Printing the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem?isFullScreen=true) | [Java](https://github.com/mgartmann/HackerRank/blob/main/DataStructures/LinkedLists/PrintingElements/PrintingElements.java) | _O(n)_ | _O(n)_ | Easy | 5 | |
+
 
 ### Graphs
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
