@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-15-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-16-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-C%23-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-23/12/2022-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-29/12/2022-brightgreen.svg">
 </p>
 
 ## Core CS
@@ -485,29 +485,29 @@
 |   | [Array Construction](https://www.hackerrank.com/challenges/array-construction)| - |  | | Advanced | 80 | ||
 
 ### Brute-Force
-| #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
------|---------------- |:---------------:| --------------- | --------------- |:-------------:|:--------------:| -----
-|   | [Pangrams](https://www.hackerrank.com/challenges/pangrams)| - |  | | Easy | 20| ||
-|   | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)| [C#](https://github.com/ilgiardino/HackerRank/tree/main/Algorithms/Implementation/ClimbingTheLeaderboard/Program.cs) | _O(m+n)_ | _O(m+n)_ | Medium| 20| only 18 points received. ||
-|   | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams)| - | | | Easy | 30| ||
-|   | [Enryption](https://www.hackerrank.com/challenges/encryption)| - |  | | Medium | 30| ||
-|   | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)| - |  | | Easy | 30| ||
-|   | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers)| - |  | | Easy | 30| ||
-|   | [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2)| [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/QueensAttack2) | | | Medium | 30| ||
-|   | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls)| - | | | Medium | 30| ||
-|   | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater)| - |  | | Medium | 35| ||
-|   | [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses)| - |  | | Medium | 40| ||
-|   | [Absolute Permuation](https://www.hackerrank.com/challenges/absolute-permutation)| - |  | | Medium | 40| ||
-|   | [Larry's Array](https://www.hackerrank.com/challenges/larrys-array)| - |  | | Medium | 40| ||
-|   | [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man)| - | | | Medium | 40| ||
-|   | [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted)| - |  | | Medium | 50| ||
-|   | [Beautiful Quadruples](https://www.hackerrank.com/challenges/xor-quadruples)| - |  | | Medium | 50| ||
-|   | [HackerRank City](https://www.hackerrank.com/challenges/hr-city)| - |  | | Medium | 50| ||
-|   | [Maximizing the Function](https://www.hackerrank.com/challenges/maximizing-the-function)| - |  | | Hard | 70| ||
-|   | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo)| - |  | | Hard | 80| ||
-|   | [Gridland Provinces](https://www.hackerrank.com/challenges/gridland-provinces)| - |  | | Hard | 80| ||
-|   | [Fighting Pits](https://www.hackerrank.com/challenges/fighting-pits)| - |  | | - | 80| ||
-|   | [Find the permutation](https://www.hackerrank.com/challenges/find-the-permutation)| - |  | | Expert | 150| ||
+| #  | Title           |                                                                                                                  Solution                                                                                                                   | Time                      | Space           | Difficulty    | Points          | Note
+-----|---------------- |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|---------------------------| --------------- |:-------------:|:--------------:| -----
+|   | [Pangrams](https://www.hackerrank.com/challenges/pangrams)|                                                                                                                      -                                                                                                                      |                           | | Easy | 20| ||
+|   | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)|                                                            [C#](https://github.com/ilgiardino/HackerRank/tree/main/Algorithms/Implementation/ClimbingTheLeaderboard/Program.cs)                                                             | _O(m+n)_                  | _O(m+n)_ | Medium| 20| only 18 points received. ||
+|   | [Strings: Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams)|                                                                                                                      -                                                                                                                      |                           | | Easy | 30| ||
+|   | [Enryption](https://www.hackerrank.com/challenges/encryption)|                                                                                                                      -                                                                                                                      |                           | | Medium | 30| ||
+|   | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)|                                                                                                                      -                                                                                                                      |                           | | Easy | 30| ||
+|   | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers)|                                                                                                                      -                                                                                                                      |                           | | Easy | 30| ||
+|   | [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2)|- [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/QueensAttack2/Program.cs) <br/> - [Java](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/QueensAttack2/QueensAttackTwo.java)| - _O(n*k)_ <br/> - _O(k)_ | | Medium | 30| C# version was too slow and did not receive full points ||
+|   | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls)|                                                                                                                      -                                                                                                                      |                           | | Medium | 30| ||
+|   | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater)|                                                                                                                      -                                                                                                                      |                           | | Medium | 35| ||
+|   | [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses)|                                                                                                                      -                                                                                                                      |                           | | Medium | 40| ||
+|   | [Absolute Permuation](https://www.hackerrank.com/challenges/absolute-permutation)|                                                                                                                      -                                                                                                                      |                           | | Medium | 40| ||
+|   | [Larry's Array](https://www.hackerrank.com/challenges/larrys-array)|                                                                                                                      -                                                                                                                      |                           | | Medium | 40| ||
+|   | [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man)|                                                                                                                      -                                                                                                                      |                           | | Medium | 40| ||
+|   | [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted)|                                                                                                                      -                                                                                                                      |                           | | Medium | 50| ||
+|   | [Beautiful Quadruples](https://www.hackerrank.com/challenges/xor-quadruples)|                                                                                                                      -                                                                                                                      |                           | | Medium | 50| ||
+|   | [HackerRank City](https://www.hackerrank.com/challenges/hr-city)|                                                                                                                      -                                                                                                                      |                           | | Medium | 50| ||
+|   | [Maximizing the Function](https://www.hackerrank.com/challenges/maximizing-the-function)|                                                                                                                      -                                                                                                                      |                           | | Hard | 70| ||
+|   | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo)|                                                                                                                      -                                                                                                                      |                           | | Hard | 80| ||
+|   | [Gridland Provinces](https://www.hackerrank.com/challenges/gridland-provinces)|                                                                                                                      -                                                                                                                      |                           | | Hard | 80| ||
+|   | [Fighting Pits](https://www.hackerrank.com/challenges/fighting-pits)|                                                                                                                      -                                                                                                                      |                           | | - | 80| ||
+|   | [Find the permutation](https://www.hackerrank.com/challenges/find-the-permutation)|                                                                                                                      -                                                                                                                      |                           | | Expert | 150| ||
 
 ### Missing Lines
 | #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Points          | Note
