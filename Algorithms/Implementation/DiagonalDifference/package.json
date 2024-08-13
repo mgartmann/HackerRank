@@ -1,0 +1,12 @@
+{
+  "name": "DiagonalDifference",
+  "packageManager": "yarn@4.4.0",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}

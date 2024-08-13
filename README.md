@@ -17,9 +17,8 @@
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-16-brightgreen.svg">
-	<img src="https://img.shields.io/badge/Language-C%23-orange.svg">
-	<img src="https://img.shields.io/badge/Latest%20Update-29/12/2022-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-17-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Latest%20Update-13/08/2024-brightgreen.svg">
 </p>
 
 ## Core CS
@@ -69,7 +68,7 @@
 |  |[Solve Me First](https://www.hackerrank.com/challenges/solve-me-first)|                                                          -                                                           | | | Easy | 1 | ||
 |  |[Staircase](https://www.hackerrank.com/challenges/staircase)|                                                          -                                                           | | | Easy | 10 | ||
 |  |[Plus Minus](https://www.hackerrank.com/challenges/plus-minus)|                                                          -                                                           | | | Easy | 10 | ||
-|  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)|                                                          -                                                           | | | Easy | 10 | ||
+|  |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)|                                                          [TypeScript](https://github.com/mgartmann/HackerRank/blob/main/Algorithms/Implementation/DiagonalDifference/index.ts)                                                         | _O(n)_ | _O(n)_ | Easy | 10 | ||
 |  |[A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)|       [C#](https://github.com/mgartmann/HackerRank/blob/main/Algorithms/Implementation/AVeryBigSum/Program.cs)       | _O(n)_| _O(n)_| Easy | 10 | ||
 |  |[Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum)|     [C#](https://github.com/ilgiardino/HackerRank/blob/main/Algorithms/Implementation/SimpleArraySum/Program.cs)     | _O(m)_| _O(m)_ | Easy | 10 | ||
 |  |[Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets)|                                                          [C#](https://github.com/mgartmann/HackerRank/blob/main/Algorithms/Implementation/CompareTheTriplets/Program.cs) | _O(n)_| _O(n)_ | Easy | 10 | ||
